@@ -1,0 +1,844 @@
+Track,_Artist,_Track_Popularity,_Followers,_Genres,_Artist_Popularity,_Release_Date,_Date,_Total_Playlists,_Akustischer_Fruhling,_All_New_Indie,_Apero,_Arkada_Calsın,_Cafe_Libros,_Coffee_and_Chill,_Feelgood_Indie,_Fresh_Finds,_Fresh_Folk,_Front_Left,_Fruhlings_Chillout,_Fruhlingsgefuhle,_Gentle_Acoustic,_Hanging_Out_and_Relaxing,_Indie_Pop,_Indie_Stage,_Infinite_Acoustic,_Its_ALT_Good!,_Lorem,_Lost_In_The_Woods,_Melancolia_Indie,_MostBeautifulSongsintheWorld,_OFF_POP,_POLLEN,_Rockin_Vibes,_Roots_Rising,_The_Indie_List,_The_New_Alt,_The_Stress_Buster,_Totally_Alt,_Totally_Stress_Free,_Ultimate_Indie,_Van_Life,_Wake_Up_and_Smell_the_Coffee,_Wild_and_Free,_Young___Free,_Your_Coffee_Break,_Your_Office_Stereo
+Garden Song,Phoebe Bridgers,66,202580,"['art pop', 'chamber pop', 'indie folk', 'indie pop', 'indie rock']",71,2020-02-26,2020-05-09,10,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+You're Too Precious,James Blake,71,980201,"['art pop', 'indie r&b', 'indie soul', 'indietronica', 'uk alternative pop']",73,2020-04-24,2020-05-09,9,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Pretty Lady,Tash Sultana,69,1057821,['australian reggae fusion'],71,2020-04-09,2020-05-09,8,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+I Know Alone,HAIM,63,895219,"['dance pop', 'indie pop', 'indietronica', 'metropopolis', 'pop', 'pop rock', 'rock']",71,2020-04-29,2020-05-09,7,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dynamite,Saint Sister,54,15490,['irish indie'],50,2020-03-02,2020-05-09,6,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1
+Imagine U,Omar Apollo,63,247735,"['alternative r&b', 'bedroom pop', 'bedroom soul', 'indie pop', 'indie r&b', 'pop']",68,2020-04-08,2020-05-09,6,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sleep On The Wing,Bibio,32,170374,"['ambient folk', 'chamber pop', 'chillwave', 'downtempo', 'electronica', 'folktronica', 'indie soul', 'indietronica']",62,2020-05-05,2020-05-09,6,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+On Our Own,Lime Cordiale,62,110792,"['australian hip hop', 'australian indie', 'australian pop']",66,2020-04-17,2020-05-09,6,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Level of Concern,Twenty One Pilots,88,16753708,"['modern rock', 'rock']",87,2020-04-09,2020-05-09,5,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Window,Still Woozy,74,381320,"['bedroom pop', 'indie pop', 'modern rock', 'oakland indie']",74,2020-04-17,2020-05-09,5,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Time (You and I),Khruangbin,66,547847,"['funk', 'indie soul', 'neo-psychedelic', 'soul']",72,2020-04-27,2020-05-09,5,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+midnight love,girl in red,71,865235,"['bedroom pop', 'indie pop', 'norwegian indie', 'pop']",75,2020-04-14,2020-05-09,5,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Too Late,Washed Out,62,372307,"['alternative dance', 'art pop', 'chillwave', 'dream pop', 'electropop', 'experimental pop', 'indie pop', 'indie rock', 'indietronica', 'neo-synthpop', 'new rave', 'nu gaze', 'shimmer pop']",61,2020-04-09,2020-05-09,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+PDLIF,Bon Iver,69,2601894,"['chamber pop', 'eau claire indie', 'indie folk', 'melancholia', 'slow core']",77,2020-04-17,2020-05-09,5,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Save Your Tears,The Weeknd,84,20147812,"['canadian contemporary r&b', 'canadian pop', 'pop']",97,2020-03-20,2020-05-09,4,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Brooklyn Bridge To Chorus,The Strokes,65,3186506,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",81,2020-04-06,2020-05-09,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+First Aid,Gus Dapperton,64,264919,"['bedroom pop', 'indie pop', 'indie poptimism']",82,2020-04-22,2020-05-09,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Beautiful,Rhye,27,409652,"['downtempo', 'indie soul', 'indietronica', 'shimmer pop']",67,2020-05-08,2020-05-09,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Still Here,Kllo,45,60840,"['alternative r&b', 'aussietronica', 'electropop', 'indie r&b', 'indie soul', 'indietronica', 'vapor soul']",57,2020-04-02,2020-05-09,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+August,Intelligency,68,2964,['belarusian indie'],55,2020-04-03,2020-05-09,4,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Happiness In Liquid Form,Alfie Templeman,58,34859,['english indie rock'],54,2020-04-07,2020-05-09,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Photo ID,Remi Wolf,58,17181,['alternative r&b'],60,2020-04-29,2020-05-09,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IDK You Yet,Alexander 23,80,50922,"['indie r&b', 'pop']",71,2020-04-09,2020-05-09,4,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Don't Let Me Down,Milky Chance,49,1302119,['german pop'],76,2020-05-01,2020-05-09,4,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Hypochondriac,Fenne Lily,55,54936,"['bristol indie', 'british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk']",56,2020-03-10,2020-05-09,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Falling for You,Charlotte OC,53,21886,['vapor pop'],49,2020-04-10,2020-05-09,4,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Figure It Out,Evan Klar,41,1049,['australian alternative pop'],42,2020-04-24,2020-05-09,4,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Kyoto,Phoebe Bridgers,67,202580,"['art pop', 'chamber pop', 'indie folk', 'indie pop', 'indie rock']",71,2020-04-09,2020-05-09,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Stella Brown,Jelani Aryeh,63,22797,"['alternative r&b', 'bedroom soul', 'indie r&b']",54,2020-04-03,2020-05-09,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+somebody loves you,Jeremy Zucker,73,885438,"['pop', 'post-teen pop']",83,2020-04-17,2020-05-09,3,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+when i look at you.,Rosie Carney,55,27130,"['chamber pop', 'indie anthem-folk', 'indie folk', 'irish singer-songwriter', 'new americana']",61,2020-03-13,2020-05-09,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black Dog,Arlo Parks,50,55771,"['alternative r&b', 'indie r&b', 'indie soul', 'uk contemporary r&b']",62,2020-05-04,2020-05-09,3,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Rest of My Days,S+C+A+R+R,57,5298,[],48,2020-03-18,2020-05-09,3,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dear April (Side A - Acoustic),Frank Ocean,75,5621176,"['alternative r&b', 'hip hop', 'lgbtq+ hip hop', 'neo soul', 'pop']",86,2020-04-03,2020-05-09,3,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Steps,HAIM,60,895219,"['dance pop', 'indie pop', 'indietronica', 'metropopolis', 'pop', 'pop rock', 'rock']",71,2020-03-03,2020-05-09,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+Love in Mine,Big Thief,57,229727,"['art pop', 'brooklyn indie', 'chamber pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'small room', 'stomp and holler']",65,2020-04-29,2020-05-09,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aries (feat. Peter Hook and Georgia),Gorillaz,72,5416830,"['alternative hip hop', 'art pop']",81,2020-04-09,2020-05-09,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Dreamland,Glass Animals,69,1116370,"['gauze pop', 'modern rock', 'shiver pop']",74,2020-05-01,2020-05-09,3,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stuck On You,RAC,62,127095,"['alternative dance', 'chillwave', 'electropop', 'indie pop', 'indie poptimism', 'indietronica', 'metropopolis', 'nu disco', 'shimmer pop', 'vapor soul']",63,2020-03-11,2020-05-09,3,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+The Difference,Flume,75,1982585,"['australian dance', 'australian electropop', 'australian indie', 'downtempo', 'edm', 'pop']",78,2020-03-11,2020-05-09,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+OK,Wallows,73,724498,"['indie pop', 'modern rock', 'rock']",76,2020-03-20,2020-05-09,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+Jesus Christ 2005 God Bless America,The 1975,55,3962206,"['indie pop', 'modern alternative rock', 'modern rock', 'nu gaze', 'pop', 'rock']",82,2020-04-03,2020-05-09,3,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+If You’re Too Shy (Let Me Know) - Edit,The 1975,78,3962206,"['indie pop', 'modern alternative rock', 'modern rock', 'nu gaze', 'pop', 'rock']",82,2020-04-23,2020-05-09,3,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Do Right,Cassia,46,22821,"['english indie rock', 'manchester indie']",47,2020-03-13,2020-05-09,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+Glass,Charlie Cunningham,56,112196,"['british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk', 'neo mellow']",64,2020-04-17,2020-05-09,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Heavy Weather,The Rubens,41,150357,"['australian hip hop', 'australian indie', 'australian pop']",64,2020-04-21,2020-05-09,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Sober,Aquilo,63,218798,"['chamber pop', 'indie anthem-folk', 'indie cafe pop', 'indie r&b', 'vapor soul']",64,2020-03-04,2020-05-09,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Fair Chance,Thundercat,62,487421,"['afrofuturism', 'hip hop', 'indie soul']",72,2020-03-17,2020-05-09,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Where You Belong,Little Dragon,62,500590,"['alternative dance', 'alternative r&b', 'art pop', 'chillwave', 'downtempo', 'electronica', 'electropop', 'escape room', 'gothenburg indie', 'indie soul', 'indietronica', 'new rave', 'swedish electropop', 'swedish synthpop', 'trip hop']",68,2020-03-27,2020-05-09,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Gimme Love,Joji,84,2552544,"['alternative r&b', 'viral pop']",85,2020-04-16,2020-05-09,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Multiply,Love Fame Tragedy,51,15131,['english indie rock'],48,2020-03-19,2020-05-09,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+homebody,Kamal.,62,2642,[],49,2020-03-04,2020-05-09,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Santa Barbara,Angelo De Augustine,53,29219,"['chamber pop', 'indie folk', 'small room']",55,2020-04-21,2020-05-09,3,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lonely Star,Oh Wonder,59,885903,"['electropop', 'indie pop', 'indie poptimism', 'indietronica', 'modern rock', 'pop']",75,2020-04-03,2020-05-09,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucky,Zeph,51,13709,"['indie cafe pop', 'indie pop']",47,2020-04-18,2020-05-09,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Insomnia,Kllo,26,60840,"['alternative r&b', 'aussietronica', 'electropop', 'indie r&b', 'indie soul', 'indietronica', 'vapor soul']",57,2020-05-07,2020-05-09,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Held Down,Laura Marling,55,357231,"['art pop', 'british folk', 'british singer-songwriter', 'chamber pop', 'indie folk', 'indie pop', 'singer-songwriter', 'stomp and holler']",66,2020-04-05,2020-05-09,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Kerosene!,Yves Tumor,57,78685,"['art pop', 'chamber pop', 'chamber psych', 'chillwave', 'electronica', 'escape room', 'experimental pop', 'fluxwork', 'freak folk', 'hyperpop', 'indietronica']",61,2020-03-09,2020-05-09,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The Sun Is Up Forever,Joesef,54,10862,['uk alternative pop'],52,2020-04-23,2020-05-09,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+In A Good Way,Faye Webster,56,49076,"['art pop', 'atlanta indie', 'chamber pop', 'electropop', 'indie folk', 'indie pop', 'indie rock']",57,2020-04-15,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"they told us it was hard, but they were wrong. - Edit",Ela Minus,55,10607,"['colombian indie', 'latintronica']",48,2020-04-15,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+umbrellar,Dua Saleh,57,12766,"['alternative r&b', 'escape room', 'minnesota hip hop', 'sudanese pop']",48,2020-04-17,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nightcrawler,Duke Dumont,65,540699,"['dance pop', 'destroy techno', 'disco house', 'edm', 'house', 'pop', 'progressive house', 'tropical house', 'uk dance']",73,2020-04-17,2020-05-09,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yellow Brick Road,Dylan Cartlidge,46,2500,['uk alternative hip hop'],34,2020-04-17,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Make the Most (feat. H.E.R.),Lonr.,63,8716,[],58,2020-04-03,2020-05-09,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peanut butter,Easy Life,29,114374,"['english indie rock', 'leicester indie']",63,2020-05-08,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+My House,Elah Hale,54,2600,[],44,2020-04-16,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seen It All,Everyone You Know,54,24484,['london indie'],55,2020-03-12,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Love 4 Nothing,Ted Jasper,36,2697,[],41,2020-04-03,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+California Screaming,Liz Lawrence,46,10065,['neo-singer-songwriter'],48,2020-04-03,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+But There's Still the Moon,Tasha,54,5349,[],42,2020-04-16,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Running Red Lights (feat. Rivers Cuomo & Pink Siifu),The Avalanches,63,280861,"['alternative dance', 'australian alternative rock', 'australian dance', 'big beat', 'collage pop', 'electronica', 'indietronica', 'new rave']",62,2020-03-18,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Stay Alive,Mustafa,59,3399,[],48,2020-03-11,2020-05-09,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bad Vacation,Liza Anne,44,47607,"['chamber pop', 'indie anthem-folk', 'indie folk']",58,2020-04-03,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+To Be A Woman Pt. 2,Fenne Lily,47,54936,"['bristol indie', 'british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk']",56,2020-04-29,2020-05-09,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daydream,The Aces,63,116826,"['dance pop', 'electropop', 'indie pop', 'indie poptimism', 'indietronica']",58,2020-03-04,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Passion,RAC,21,127095,"['alternative dance', 'chillwave', 'electropop', 'indie pop', 'indie poptimism', 'indietronica', 'metropopolis', 'nu disco', 'shimmer pop', 'vapor soul']",63,2020-05-08,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Overlord,Dirty Projectors,52,199133,"['art pop', 'brooklyn indie', 'chamber pop', 'chillwave', 'experimental pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'indietronica', 'noise pop']",55,2020-02-26,2020-05-09,2,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Speaking of the End,Låpsley,57,188227,"['electropop', 'gauze pop', 'indie r&b', 'indie soul', 'indietronica', 'vapor soul']",59,2020-03-16,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+I disappear in your arms - bonus,Christine and the Queens,59,492531,"['art pop', 'electropop', 'metropopolis', 'shimmer pop']",68,2020-02-27,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Butterflies,Thomas Headon,56,40411,[],54,2020-03-27,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Battered & Bruised,Circa Waves,54,196649,"['english indie rock', 'indie surf', 'liverpool indie', 'modern alternative rock', 'modern rock', 'rock']",63,2020-03-11,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+I'm God,Clams Casino,58,144124,"['chillwave', 'experimental hip hop', 'indietronica', 'underground hip hop', 'vapor twitch', 'witch house']",66,2020-04-24,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Better and Better,Maya De Vitry,50,769,['nashville singer-songwriter'],45,2020-03-13,2020-05-09,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Right,Mac Miller,73,4254731,"['hip hop', 'pittsburgh rap', 'rap']",87,2020-03-19,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cyanide,Creeper,51,41498,"['british alternative rock', 'pop punk', 'southampton indie']",46,2020-02-28,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Drive,Cub Sport,57,91919,"['australian hip hop', 'australian indie', 'australian indie rock', 'australian pop', 'brisbane indie']",60,2020-03-27,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Friends (feat. Powfu),Mishaal,61,12335,['lo-fi beats'],55,2020-05-01,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Do What You Like,The Phenomenal Handclap Band,47,9839,['nu disco'],43,2020-05-08,2020-05-09,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Touch,Dillon Francis,62,972815,"['big room', 'brostep', 'dance pop', 'edm', 'electro house', 'electronic trap', 'electropop', 'house', 'moombahton', 'pop', 'tropical house']",70,2020-04-15,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Speaking of the End,Låpsley,53,188227,"['electropop', 'gauze pop', 'indie r&b', 'indie soul', 'indietronica', 'vapor soul']",59,2020-03-20,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chandelier,Damien Rice,58,839017,"['acoustic pop', 'irish rock', 'irish singer-songwriter', 'neo mellow', 'pop rock', 'singer-songwriter']",67,2020-03-10,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Jam,Darkstar,42,21214,['bass music'],41,2020-04-30,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skin of a Fool,Luke Sital-Singh,49,70889,"['acoustic pop', 'british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk']",54,2020-04-03,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[Insert Girls Name Here],The Luka State,45,9323,"['english indie rock', 'modern alternative rock']",44,2020-03-06,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Caution - Radio Edit,The Killers,72,5268200,"['modern rock', 'permanent wave', 'rock']",80,2020-03-12,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+The Key to Life on Earth,Declan McKenna,63,488556,"['indie pop', 'modern alternative rock', 'modern rock', 'rock']",69,2020-04-14,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Dream World,The Growlers,0,412637,"['garage rock', 'indie garage rock', 'indie surf']",67,2020-05-08,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Shameika,Fiona Apple,70,638415,"['art pop', 'chamber pop', 'indie pop', 'lilith', 'permanent wave', 'piano rock', 'pop rock', 'singer-songwriter']",74,2020-04-17,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Upside Down,Mondo Cozmo,51,26963,['alternative americana'],47,2020-04-10,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Cayendo (Side A - Acoustic),Frank Ocean,75,5621176,"['alternative r&b', 'hip hop', 'lgbtq+ hip hop', 'neo soul', 'pop']",86,2020-04-03,2020-05-09,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Light Of Love,Florence + The Machine,69,5087423,"['art pop', 'baroque pop', 'pop', 'uk alternative pop']",78,2020-04-17,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+i spoke to god,Rosie Carney,44,27130,"['chamber pop', 'indie anthem-folk', 'indie folk', 'irish singer-songwriter', 'new americana']",61,2020-04-10,2020-05-09,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Combat,Hazel English,50,47745,"['indie rock', 'oakland indie']",54,2020-03-04,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Dragonball Durag,Thundercat,66,487421,"['afrofuturism', 'hip hop', 'indie soul']",72,2020-04-03,2020-05-09,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nikes On,Healy,62,69785,['underground hip hop'],62,2020-03-05,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fabric,Henry Green,51,36423,"['chamber pop', 'indie soul', 'vapor soul']",57,2020-04-17,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Green Room (feat. Ed Droste),Henry Jamison,48,47775,"['chamber pop', 'indie anthem-folk', 'indie folk', 'neo mellow', 'new americana', 'pop folk', 'stomp and holler', 'vermont indie']",62,2020-04-24,2020-05-09,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Still Life (feat. Joseph),Henry Jamison,56,47775,"['chamber pop', 'indie anthem-folk', 'indie folk', 'neo mellow', 'new americana', 'pop folk', 'stomp and holler', 'vermont indie']",62,2020-02-28,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+I Forget Myself (feat. Darlingside),Henry Jamison,62,47775,"['chamber pop', 'indie anthem-folk', 'indie folk', 'neo mellow', 'new americana', 'pop folk', 'stomp and holler', 'vermont indie']",62,2020-04-03,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Falling Asleep At The Wheel,Holly Humberstone,67,9301,[],55,2020-03-19,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Butter,Huron John,51,5399,['bedroom pop'],51,2020-04-13,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CRUMPY,Nick Hakim,47,96118,"['alternative r&b', 'indie jazz', 'indie soul', 'neo r&b']",57,2020-04-21,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Motocross,Huron John,52,5399,['bedroom pop'],51,2020-04-22,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Big Shot,IRONTOM,47,11211,['modern alternative rock'],43,2020-03-06,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+not ok,Peach Tree Rascals,57,47994,"['alternative r&b', 'indie r&b']",64,2020-05-01,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shiloh,Julia Church,44,895,[],45,2020-03-06,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Woo!,Remi Wolf,56,17181,['alternative r&b'],60,2020-04-08,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Idontknow,Jamie xx,67,585093,"['electronica', 'future garage', 'indie r&b', 'indie soul', 'indietronica', 'new rave']",66,2020-04-15,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Suffocate,Jany Green,54,834,[],41,2020-04-06,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Troublemaker,Picture This,60,199419,"['indie anthem-folk', 'irish pop']",65,2020-04-17,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Wake UP!,Hazel English,26,47745,"['indie rock', 'oakland indie']",54,2020-04-24,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Five and Dime,Hazel English,22,47745,"['indie rock', 'oakland indie']",54,2020-04-07,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Chemicals,SG Lewis,68,180143,"['alternative r&b', 'edm', 'electropop', 'indie r&b', 'indie soul', 'new french touch', 'tropical house', 'vapor soul']",68,2020-04-24,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dear Stranger,STRFKR,59,295953,"['alternative dance', 'chillwave', 'indie pop', 'indie rock', 'indietronica', 'modern rock', 'shimmer pop', 'vapor soul']",65,2020-04-10,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Bittersweet,Lianne La Havas,67,536838,"['british soul', 'indie r&b', 'indie soul', 'neo soul', 'soul']",64,2020-02-25,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+20 Something,Pool,46,4932,['hamburg indie'],45,2020-04-17,2020-05-09,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Are We Having Any Fun Yet?,Larkins,51,15753,"['english indie rock', 'manchester indie']",48,2020-04-27,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Shane,Fruit Bats,54,91824,"['canadian indie', 'chamber pop', 'deep new americana', 'freak folk', 'funk', 'indie folk', 'indie pop', 'indie rock', 'modern rock', 'new americana', 'roots rock', 'stomp and holler']",60,2020-04-15,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Home,Somni,53,3119,[],46,2020-03-27,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kevin,Oliver Malcolm,56,3845,[],51,2020-04-30,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Johnny,Sarah Jarosz,48,84269,"['folk', 'indie folk', 'lilith', 'new americana', 'progressive bluegrass', 'stomp and holler']",56,2020-03-24,2020-05-09,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Deleter,Grouplove,63,856362,"['indie pop', 'indie rock', 'la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock', 'stomp and holler']",71,2020-03-13,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Freaks,Kidmimself,18,0,[],7,2020-05-01,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Lightning,Orion Sun,58,39828,"['alternative r&b', 'bedroom pop', 'indie r&b', 'indie soul']",59,2020-03-13,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+We Wait,Other Lives,44,73548,"['chamber pop', 'ok indie', 'stomp and holler']",52,2020-04-24,2020-05-09,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+i want war (BUT I NEED PEACE),Kali Uchis,68,908080,"['colombian pop', 'pop']",78,2020-04-24,2020-05-09,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OK OK,HOKO,54,716,[],41,2020-02-26,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Is There Something In The Movies?,Samia,21,18205,[],48,2020-04-30,2020-05-09,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holding To The Edge Of Night,Samantha Crain,36,11893,['stomp and holler'],34,2020-04-08,2020-05-09,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+It Gets Better,Salem,46,1152,[],45,2020-04-28,2020-05-09,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+I Believe In You (feat. Francis and The Lights),Kacy Hill,53,57736,"['electropop', 'indie electropop', 'indie poptimism', 'la pop', 'vapor soul']",63,2020-03-11,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Strange Clouds,ufo ufo,54,4378,"['la pop', 'modern alternative rock', 'modern rock']",46,2020-02-28,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Hold It Down,Spencer.,55,18143,['bedroom pop'],50,2020-03-24,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+LA CANCIÓN,maye,56,26123,[],53,2020-04-17,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+no faker,mxmtoon,63,711182,"['bedroom pop', 'indie pop', 'lo-fi beats', 'pop']",75,2020-04-22,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+First Time,Becca Mancari,22,5695,"['nashville indie', 'nashville singer-songwriter']",43,2020-05-06,2020-05-09,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wondering,Becky and the Birds,55,1695,[],43,2020-03-25,2020-05-09,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Money Is The One True God,Blake Mills,7,31107,"['indie folk', 'modern folk rock', 'stomp and holler']",50,2020-05-08,2020-05-09,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+For a Minute,WizTheMc,53,9288,[],50,2020-05-01,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alright,Tycho,51,553522,"['chillwave', 'downtempo', 'electronica', 'indietronica', 'intelligent dance music']",66,2020-02-28,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+lessons,mxmtoon,64,711182,"['bedroom pop', 'indie pop', 'lo-fi beats', 'pop']",75,2020-04-09,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Starz,Ben Kweller,47,44423,['indie pop'],44,2020-04-24,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Panic,Annie Hamilton,46,1210,['modern dream pop'],36,2020-03-31,2020-05-09,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+More Than Enough,Alina Baraz,68,660876,"['alternative r&b', 'electropop', 'etherpop', 'pop']",76,2020-03-26,2020-05-09,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cheesin’ (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",Cautious Clay,64,107711,"['alternative r&b', 'electropop', 'indie r&b', 'nyc pop', 'vapor soul']",65,2020-04-22,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fucked Myself Up,"merci, mercy",59,1768,[],46,2020-03-06,2020-05-09,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Just Asking,Aquilo,53,218798,"['chamber pop', 'indie anthem-folk', 'indie cafe pop', 'indie r&b', 'vapor soul']",64,2020-04-01,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+What I'd Do For You,April,43,1609,[],45,2020-05-01,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Wine of Lebanon,Cass McCombs,27,115359,"['anti-folk', 'art pop', 'baroque pop', 'chamber pop', 'freak folk', 'funk', 'indie folk', 'indie pop', 'indie rock', 'indie soul', 'roots rock', 'singer-songwriter', 'slow core', 'stomp and holler']",59,2020-05-06,2020-05-09,2,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BABY,Winnie Raeder,46,2095,[],39,2020-02-26,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Stand,Welshly Arms,48,132118,"['modern alternative rock', 'modern hard rock', 'modern rock']",62,2020-04-24,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+There Must Be More Than Blood,Car Seat Headrest,57,251808,"['alternative rock', 'anti-folk', 'art pop', 'chamber pop', 'indie pop', 'indie punk', 'indie rock', 'noise pop']",66,2020-04-23,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Famous,Car Seat Headrest,57,251808,"['alternative rock', 'anti-folk', 'art pop', 'chamber pop', 'indie pop', 'indie punk', 'indie rock', 'noise pop']",66,2020-05-01,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Your Hero Is Not Dead,Westerman,42,19344,['uk alternative pop'],51,2020-04-21,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Hollywood,Car Seat Headrest,55,251808,"['alternative rock', 'anti-folk', 'art pop', 'chamber pop', 'indie pop', 'indie punk', 'indie rock', 'noise pop']",66,2020-04-16,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+u know it's real,Ant Saunders,64,53031,['pop'],72,2020-02-28,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+If That's Alright,Betcha,52,6596,"['hopebeat', 'modern alternative rock', 'nashville indie']",47,2020-03-05,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+15 Years,Vistas,56,28702,"['edinburgh indie', 'modern alternative rock', 'modern rock', 'scottish indie rock']",56,2020-03-17,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Her Love,narou,10,1106,[],45,2020-05-08,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Universe,Ambar Lucid,54,34237,['bedroom pop'],56,2020-04-10,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+as good as it gets,sophie meiers,34,77203,"['bedroom soul', 'lo-fi beats']",63,2020-05-06,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wolves,Azure Ryder,57,2665,[],50,2020-03-27,2020-05-09,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35.31,Childish Gambino,67,6195564,"['atl hip hop', 'hip hop', 'pop rap', 'rap']",83,2020-03-22,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24.19,Childish Gambino,66,6195564,"['atl hip hop', 'hip hop', 'pop rap', 'rap']",83,2020-03-22,2020-05-09,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+phoenix,again&again,34,651,[],32,2020-04-30,2020-05-09,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+bummy!,boylife,56,1568,[],48,2020-04-30,2020-05-09,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ripped jeans,adan diaz,48,5031,[],35,2020-04-17,2020-05-09,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lie Out Loud,BLOXX,51,23138,"['english indie rock', 'modern alternative rock']",49,2020-04-28,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Switch,Biig Piig,57,76278,"['alternative r&b', 'indie soul']",57,2020-03-31,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Goliath,Woodkid,63,529017,['chamber pop'],64,2020-04-23,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HEART ATTACK (feat. lau.ra),BRONSON,54,8432,[],57,2020-04-29,2020-05-09,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Sleep Talk,Patricia Lalor,43,4823,[],38,2020-03-20,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Tennessee,Peter Manos,37,51586,['indie cafe pop'],61,2020-05-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Here Comes Your Man,Zoe,46,135,[],36,2020-04-09,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Time Moves On,Phantom Planet,47,64483,[],55,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Disappear,PLGRMS,42,4061,[],35,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Figure 8,Peach Pit,59,272851,"['indie pop', 'modern alternative rock', 'modern rock', 'vancouver indie']",69,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Alive,Petite Noir,36,27389,"['chamber psych', 'shiver pop', 'south african alternative', 'south african rock']",39,2020-04-28,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dead Weight,PVRIS,64,457160,"['electropop', 'modern alternative rock', 'modern rock', 'pixie', 'pop', 'pop emo', 'pop punk']",65,2020-03-04,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Unhold Me,Peter Sandberg,42,30708,"['background music', 'calming instrumental', 'compositional ambient', 'focus', 'neo-classical']",64,2020-03-19,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+DEMONS,Zaia,59,9753,['atl hip hop'],52,2020-04-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stud Song,Peter Oren,32,3928,[],43,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pray For Real,Peter CottonTale,53,11267,[],55,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The World,Pete Yorn,17,60765,"['neo mellow', 'new jersey indie', 'pop rock']",51,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Keys, Wallet, Phone, God",Peter CottonTale,50,11267,[],55,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black Licorice,Peach Pit,59,272851,"['indie pop', 'modern alternative rock', 'modern rock', 'vancouver indie']",69,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Yellow,Paige,52,8605,[],52,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+On the Floor - Edit,Perfume Genius,56,232000,"['art pop', 'chamber pop', 'chamber psych', 'chillwave', 'dream pop', 'electropop', 'experimental pop', 'freak folk', 'indie pop', 'indie rock', 'indietronica', 'seattle indie']",61,2020-03-16,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Out of Nowhere,Peter Bjorn and John,46,276455,"['alternative dance', 'baroque pop', 'dance-punk', 'indie pop', 'indie rock', 'indietronica', 'modern rock', 'new rave', 'swedish alternative rock', 'swedish indie pop']",62,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Drinking,Zsela,41,4734,[],40,2020-04-24,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lonely,Palaye Royale,66,196951,"['modern alternative rock', 'modern rock', 'pop punk', 'rock', 'vegas indie']",64,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"IknowhowIfeel - from Hansa Studios, Berlin",Parcels,54,265911,"['aussietronica', 'indie soul']",67,2020-04-16,2020-05-09,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Preloved,Peach Fur,42,10530,"['australian garage punk', 'australian reggae fusion']",42,2020-03-26,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fall Back Asleep,Patricia Lalor,42,4823,[],38,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Things Won't Go My Way,Peach Tree Rascals,62,47994,"['alternative r&b', 'indie r&b']",64,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+April Fool,Tiz McNamara,50,2014,['irish singer-songwriter'],47,2020-04-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+INNERSTATE,Zaia,56,9753,['atl hip hop'],52,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wrong Way Round,Rachel Baiman,34,3212,"['indie folk', 'neo-traditional bluegrass', 'new americana']",38,2020-03-18,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coachella,REYNA,40,4198,"['indie poptimism', 'milwaukee indie']",37,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+She Said,RIZ LA VIE,47,37486,['bedroom soul'],57,2020-04-29,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Lonely After,Yumi Zouma,45,70955,"['chillwave', 'christchurch indie', 'electropop', 'indie pop', 'indie poptimism', 'indie rock', 'indie soul', 'indietronica', 'nz pop', 'shimmer pop', 'vapor soul']",58,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Goodbye Bye Bye,Younger Hunger,37,12041,[],48,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juice,Young Franco,60,31390,"['aussietronica', 'indie soul']",54,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+All Is Well,ROMES,33,5137,[],35,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2 Cents,Rainsford,35,10426,[],39,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Staying In (& Holding Out),Phoebe Katis,19,1587,[],32,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Running,Ralph Castelli,3,13868,['alaska indie'],52,2020-05-08,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+We'll Make It Through,Ray LaMontagne,18,746940,"['acoustic pop', 'indie folk', 'neo mellow', 'new americana', 'pop rock', 'stomp and holler']",68,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paper Cup - Edit,Real Estate,46,325706,"['art pop', 'chamber pop', 'chillwave', 'experimental pop', 'freak folk', 'indie pop', 'indie rock', 'indietronica', 'lo-fi', 'modern rock', 'new jersey indie', 'noise pop', 'nu gaze', 'shimmer pop']",61,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Woo! - Porches Remix,Remi Wolf,43,17181,['alternative r&b'],60,2020-04-17,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Surely,Yemi,37,3060,"['swedish trap', 'swedish urban']",36,2020-04-29,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Woo!,Remi Wolf,57,17181,['alternative r&b'],60,2020-04-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BRAVE NEW WORLD,RAT BOY,48,86616,"['english indie rock', 'modern alternative rock', 'modern rock', 'rock']",51,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Pikachu,Yung Lean,63,419962,"['dark trap', 'emo rap', 'underground hip hop']",67,2020-04-29,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Just Me,Yung Sum,41,845,[],38,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Change The Story,RAC,50,127095,"['alternative dance', 'chillwave', 'electropop', 'indie pop', 'indie poptimism', 'indietronica', 'metropopolis', 'nu disco', 'shimmer pop', 'vapor soul']",63,2020-04-22,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Strawberry Privilege,Yves Tumor,56,78685,"['art pop', 'chamber pop', 'chamber psych', 'chillwave', 'electronica', 'escape room', 'experimental pop', 'fluxwork', 'freak folk', 'hyperpop', 'indietronica']",61,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coffee,Quinn XCII,71,462925,"['electropop', 'indie pop rap', 'pop', 'pop rap']",78,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peacefall,Purity Ring,31,497671,"['art pop', 'canadian electropop', 'chillwave', 'edmonton indie', 'electropop', 'escape room', 'grave wave', 'indietronica', 'metropopolis', 'shimmer pop']",63,2020-03-18,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Verlier Dich,Provinz,59,38910,"['german indie', 'german indie folk', 'german pop']",60,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gemini,Princess Nokia,58,293667,"['alternative r&b', 'escape room', 'lgbtq+ hip hop', 'pop', 'trap queen']",68,2020-02-26,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+im used to it,Powfu,70,282450,[],86,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Dark,ZZ Ward,46,121668,['modern alternative rock'],53,2020-03-26,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lovely Day / Good as Hell Mashup,Pomplamoose,51,184712,['folk-pop'],60,2020-03-18,2020-05-09,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucky Sometimes,Pokey LaFarge,41,57719,['new americana'],49,2020-03-16,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Like It Like This,Pink Laundry,46,1867,[],33,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Edamame,Zacari,55,53230,['gqom'],69,2020-04-21,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The People,Photay,43,36854,"['chillwave', 'wonky']",47,2020-04-29,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sometimes It's Meant To Hurt,Phoebe Katis,36,1587,[],32,2020-03-20,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nocturne,altopalo,40,4779,[],47,2020-04-14,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mind,duendita,49,17503,"['alternative r&b', 'bedroom soul']",46,2020-04-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+S.A.D,Oscar Welsh,26,2504,[],41,2020-05-04,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lie to Me,Morgan Harper-Jones,50,387,[],37,2020-03-04,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Too Much Change - Edit,Moby,47,1155269,"['downtempo', 'electronica']",72,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+friends*,Moby Rich,12,13019,[],55,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Don't Really Wanna Know,Modslee,43,57,[],30,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Habitat,Momma,19,1987,['small room'],33,2020-05-05,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+is it raining where you are?,prettyboyshav,29,1647,[],42,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hometown Heroes,Moon Taxi,52,142407,"['indie pop', 'indie poptimism', 'indietronica', 'modern alternative rock', 'modern rock', 'pop rock', 'stomp and holler']",60,2020-03-25,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Diamonds - Acoustic,Morgan Evans,44,87320,"['australian country', 'australian pop', 'contemporary country']",64,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Slow Burn,Mountain Man,31,46414,"['chamber pop', 'freak folk', 'indie folk', 'indie pop', 'north carolina indie', 'stomp and holler', 'vermont indie']",53,2020-05-05,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Advice,Mo Sella,26,67,[],20,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+My Vibe,Mt. Joy,57,142185,"['indie folk', 'indie pop', 'indie rock', 'modern rock', 'stomp and holler']",68,2020-04-09,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tayrona,Mt. Wolf,54,25815,['chamber pop'],49,2020-04-08,2020-05-09,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stay Alive,Mustafa,51,3399,[],48,2020-03-11,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+no friends,mazie,54,1211,[],40,2020-04-14,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Basement,Mute Choir,45,915,[],38,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Please Don't Go,MyKey,52,25147,['bedroom pop'],52,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hang On,NEEDTOBREATHE,61,561787,"['acoustic pop', 'ccm', 'christian alternative rock', 'christian indie', 'christian music', 'folk-pop', 'indiecoustica', 'neo mellow', 'pop rock', 'worship']",68,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+museum,renforshort,48,13019,['canadian pop'],53,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Waiting For (feat. Jamila Woods),rum.gold,56,5339,"['alternative r&b', 'indie r&b']",46,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Safe In Sound,Orlando Weeks,45,3843,['indie folk'],37,2020-02-26,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Her,Mei River,23,287,[],37,2020-03-12,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+It’s Over,MarthaGunn,48,3484,[],37,2020-04-09,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+absolutelynothing(today),Matija,42,5666,"['german indie rock', 'munich indie']",37,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Form,Matthew Chaim,40,5124,['canadian contemporary r&b'],42,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cautious,Max Leone,55,1913,[],47,2020-02-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Beach,Max Leone,56,1913,[],47,2020-04-16,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Skin Care Tutorial 2020,tobi lou,59,169295,[],69,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peter Parker,Mei River,20,287,[],37,2020-04-02,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dreaming,Mel Azul,8,321,[],3,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+feels,sander blue,24,16,[],12,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+It's a Moot Point,Melanie Faye,56,23552,['bedroom soul'],58,2020-03-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calvaire,spill tab,47,1214,[],35,2020-03-05,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+I Hate Society,Metro Station,42,223074,"['electropowerpop', 'neon pop punk', 'pixie', 'pop punk']",58,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Light - Edit,Michael Kiwanuka,56,773461,"['british soul', 'funk', 'neo soul', 'soul']",70,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+A Comma,serpentwithfeet,47,52394,"['art pop', 'escape room']",45,2020-04-29,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rock bottom,MisterWives,57,346153,"['electropop', 'indie pop', 'indie poptimism', 'indietronica', 'modern rock', 'nyc pop', 'pop', 'pop rock', 'stomp and holler']",61,2020-04-22,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+cz,Mk.gee,54,30119,"['indie soul', 'vapor soul']",54,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Tell Me,NEIL FRANCES,55,27439,"['indie soul', 'indietronica', 'nu disco', 'vapor soul']",58,2020-04-24,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heart To Ride,Nadia Reid,29,21027,"['chamber pop', 'chamber psych', 'dunedin indie', 'indie folk', 'nz folk', 'nz indie', 'nz pop', 'nz singer-songwriter']",47,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Best Thing,Nadia Reid,35,21027,"['chamber pop', 'chamber psych', 'dunedin indie', 'indie folk', 'nz folk', 'nz indie', 'nz pop', 'nz singer-songwriter']",47,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Between Us (feat. Snoh Aalegra),dvsn,46,738276,"['alternative r&b', 'canadian contemporary r&b', 'pop', 'r&b', 'trap soul', 'urban contemporary']",74,2020-03-19,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Is Everybody Going Crazy?,Nothing But Thieves,69,544909,"['alternative pop rock', 'garage rock', 'modern alternative rock', 'modern rock', 'rock']",69,2020-03-18,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Summertime,OVERSTREET,44,46968,[],44,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Don't Stop... - Demo,Oasis,58,5109832,"['britpop', 'madchester', 'modern rock', 'permanent wave', 'rock']",80,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Hot Chicken,Ocean Alley,55,237672,"['australian hip hop', 'australian pop', 'australian reggae fusion']",66,2020-04-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Whole Lotta (Text Voter XX to 40649),grandson,54,485053,"['modern alternative rock', 'modern rock', 'rock']",73,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+I Like It When You Love Me,Oh Wonder,63,885903,"['electropop', 'indie pop', 'indie poptimism', 'indietronica', 'modern rock', 'pop']",75,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Like,fijitrip,39,290,[],30,2020-03-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Keep On Dancing,Oh Wonder,63,885903,"['electropop', 'indie pop', 'indie poptimism', 'indietronica', 'modern rock', 'pop']",75,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Simulation (feat. Swamp Dogg, Justin Vernon)",Naeem,50,778,[],37,2020-04-16,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SGSY,Oklou,40,7687,"['escape room', 'fluxwork', 'hyperpop', 'indie r&b']",45,2020-04-23,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Helen,Oliver Malcolm,56,3845,[],51,2020-03-26,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tears In December,Rence,53,9578,['indie r&b'],55,2020-04-16,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Let Me Down,Oliver Tree,75,684672,['alternative hip hop'],76,2020-04-07,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+swings,carwash,44,1970,[],41,2020-04-09,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trying,Orion Sun,55,39828,"['alternative r&b', 'bedroom pop', 'indie r&b', 'indie soul']",59,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+longlife,altopalo,54,4779,[],47,2020-04-24,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clever,Nolie,40,3271,[],41,2020-04-21,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A Troubled Mind,Noah Kahan,61,207094,"['neo mellow', 'pop', 'pop rock']",73,2020-05-01,2020-05-09,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weirdo,NoMBe,57,132061,"['electropop', 'indie poptimism', 'indie soul', 'indietronica', 'modern alternative rock', 'modern rock', 'vapor soul']",64,2020-03-31,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Peaches (Text Voter XX to 40649),grandson,58,485053,"['modern alternative rock', 'modern rock', 'rock']",73,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+She's Stronger,Nana Adjoa,2,4385,[],35,2020-05-08,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nobody else,lilspirit,49,8486,['emo rap'],49,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Airport,Nate Traveller,45,3846,[],45,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Just Say Something,Nathan Ball,50,18706,['indie anthem-folk'],48,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lullaby for Your Ears,Nathan Koah,35,912,[],27,2020-03-18,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Don't Care Darlin',Nathaniel Rateliff & The Night Sweats,55,403879,"['funk', 'indie folk', 'rock', 'stomp and holler']",64,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+less of you,keshi,68,309443,"['indie r&b', 'lo-fi beats', 'pop']",73,2020-03-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+How Bout Now (Text Voter XX to 40649),grandson,59,485053,"['modern alternative rock', 'modern rock', 'rock']",73,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+QADIR - Single Version,Nick Hakim,49,96118,"['alternative r&b', 'indie jazz', 'indie soul', 'neo r&b']",57,2020-03-31,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Music to Clean the House to,Nick Leng,47,14466,['vapor soul'],52,2020-03-11,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Walking Home to You,Nick Leng,55,14466,['vapor soul'],52,2020-04-24,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Faith Made of Silk,Nicolas Jaar,50,524539,"['downtempo', 'electronica', 'indietronica', 'microhouse', 'minimal techno']",61,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Akira Harakiri,Nilo Blues,37,243,[],27,2020-03-20,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rare,Nina Olivia,48,27,[],34,2020-04-05,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heels,NoMBe,49,132061,"['electropop', 'indie poptimism', 'indie soul', 'indietronica', 'modern alternative rock', 'modern rock', 'vapor soul']",64,2020-02-25,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Type 2,Rence,42,9578,['indie r&b'],55,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Kind Eyes,Robbie Koex,27,705,[],39,2020-04-29,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Let It Burn,Rey Pila,23,54345,"['deep latin alternative', 'latin alternative', 'latin rock', 'metropopolis', 'mexican indie', 'mexican rock', 'rock en espanol']",46,2020-05-07,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cold water,Uly,52,984,['irish indie'],42,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Es Por Tí - One World: Together At Home,Various Artists,44,887276,[],0,2020-04-19,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+If You Were Me,VOILÀ,45,6029,['la pop'],47,2020-05-01,2020-05-09,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beautiful,Temi Oni,23,502,[],14,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Somebody Else,Tensnake,16,61014,"['alternative dance', 'balearic', 'deep disco house', 'deep house', 'disco house', 'electronica', 'filter house', 'german house', 'hamburg electronic', 'house', 'indie soul', 'new rave', 'nu disco']",56,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fun,Terror Jr,51,140237,"['dance pop', 'electropop', 'indie electropop', 'indie poptimism', 'indietronica', 'metropopolis', 'pop']",56,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Temple,Thao & The Get Down Stay Down,47,53182,"['chamber pop', 'indie pop', 'stomp and holler']",45,2020-03-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Astronaut,Uma,43,1295,[],35,2020-03-12,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Anything Could Happen,The Academic,39,78379,"['english indie rock', 'irish indie', 'modern alternative rock', 'modern rock']",55,2020-05-04,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+flashdrive,The Driver Era,56,154341,"['indie pop', 'modern alternative rock']",61,2020-04-02,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lost Angeles,The Aces,55,116826,"['dance pop', 'electropop', 'indie pop', 'indie poptimism', 'indietronica']",58,2020-04-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mother,UMI,61,248588,"['alternative r&b', 'bedroom soul', 'indie r&b', 'pop']",69,2020-04-22,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Introspection,UMI,37,248588,"['alternative r&b', 'bedroom soul', 'indie r&b', 'pop']",69,2020-05-07,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Midas,Typhoon Roulette,28,102,[],25,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Saint Cecilia,The Barr Brothers,16,98715,"['canadian americana', 'canadian indie', 'chamber pop', 'deep new americana', 'indie folk', 'new americana', 'roots rock', 'stomp and holler']",56,2020-05-07,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Careless,The Blue Stones,49,62137,"['garage rock', 'modern alternative rock', 'modern blues rock', 'modern hard rock', 'modern rock', 'rock', 'windsor on indie']",57,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Little Sadie,The Dead Tongues,42,19853,"['deep new americana', 'indie folk', 'new americana', 'stomp and holler']",51,2020-02-25,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Un Año - One World: Together At Home,Various Artists,50,887276,[],0,2020-04-19,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soon You'll Get Better - One World: Together At Home,Various Artists,56,887276,[],0,2020-04-19,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+I Feel A Darkness,Taylor Janzen,25,4154,['manitoba indie'],42,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+F.L.Y.,Taylor Ashton,35,1007,[],38,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Out Of It,Vundabar,48,54788,"['boston indie', 'indie garage rock', 'indie rock']",54,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Funky Galileo,Sure Sure,57,51089,"['indie pop', 'indie rock', 'indietronica', 'la indie', 'modern rock', 'vapor soul']",59,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Take It Easy,Surfaces,75,384023,"['bedroom soul', 'pop']",84,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nicotine,Sycco,53,1614,['australian alternative pop'],41,2020-03-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Living,TENDER,47,84114,"['electropop', 'uk alternative pop', 'vapor soul']",56,2020-03-31,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Colder & Closer,TOPS,11,78064,"['art pop', 'chillwave', 'experimental pop', 'indie pop', 'indie rock', 'indie soul', 'indietronica', 'neo-psychedelic', 'quebec indie', 'shiver pop']",58,2020-03-04,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Young Punks,Voodoos,9,2535,"['english indie rock', 'scottish indie rock']",29,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Direct Sunlight,TOPS,17,78064,"['art pop', 'chillwave', 'experimental pop', 'indie pop', 'indie rock', 'indie soul', 'indietronica', 'neo-psychedelic', 'quebec indie', 'shiver pop']",58,2020-03-25,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Summer,Vistas,49,28702,"['edinburgh indie', 'modern alternative rock', 'modern rock', 'scottish indie rock']",56,2020-04-21,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+OK Fine Whatever,TOPS,23,78064,"['art pop', 'chillwave', 'experimental pop', 'indie pop', 'indie rock', 'indie soul', 'indietronica', 'neo-psychedelic', 'quebec indie', 'shiver pop']",58,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Pretty Dumb (Acoustic),Tash,39,11637,['indie r&b'],46,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Enfance 80,Videoclub,55,168348,['french indie pop'],64,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Physical - Acoustic,Victoria Voss,42,429,[],46,2020-03-04,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Life Inside,Verzache,61,123188,['lo-fi beats'],69,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+What A Wonderful World - One World: Together At Home,Various Artists,61,887276,[],0,2020-04-19,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hey Moon,The Dead Tongues,45,19853,"['deep new americana', 'indie folk', 'new americana', 'stomp and holler']",51,2020-03-24,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+everyone blooms,The Front Bottoms,56,338476,"['alternative emo', 'emo', 'indie pop', 'indie rock', 'modern rock', 'new jersey indie', 'pop punk']",64,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Just the Two of Us (feat. Sxip Shirey),Rhiannon Giddens,8,69844,"['folk', 'new americana']",53,2020-05-07,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cathedral Bell,The Used,56,737956,"['pop punk', 'post-hardcore', 'screamo']",68,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Nightrider,Tom Misch,67,644913,['indie soul'],76,2020-04-16,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Call My Phone Thinking I'm Doing Nothing Better,The Streets,67,307435,"['birmingham hip hop', 'grime', 'modern rock', 'uk garage']",63,2020-04-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Last 100,Tom Misch,65,644913,['indie soul'],76,2020-04-24,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brooklyn Bridge To Chorus,The Strokes,74,3186506,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",81,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+City Lights,The Sweet Serenades,42,2314,['shiver pop'],31,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prisoner of Love,The Undercover Dream Lovers,48,31652,['vapor soul'],52,2020-02-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Invincible,The Unlikely Candidates,52,97702,"['fort worth indie', 'indie poptimism', 'modern alternative rock', 'modern rock', 'rock']",60,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Snowchild,The Weeknd,59,20147812,"['canadian contemporary r&b', 'canadian pop', 'pop']",97,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Don't Be Afraid,Tycho Jones,31,480,[],25,2020-04-29,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Repeat After Me (Interlude),The Weeknd,77,20147812,"['canadian contemporary r&b', 'canadian pop', 'pop']",97,2020-03-20,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nightrider,Tom Misch,64,644913,['indie soul'],76,2020-04-24,2020-05-09,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+This Dance,The Weeks,41,34028,"['deep new americana', 'mississippi indie']",45,2020-03-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Serious,The Whitest Boy Alive,53,290062,"['alternative dance', 'dance-punk', 'electronica', 'indie pop', 'indietronica', 'modern rock', 'new rave']",57,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Festival,Tom Misch,62,644913,['indie soul'],76,2020-04-24,2020-05-09,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Out Of Style,The Wrecks,51,60867,"['indie pop', 'la indie', 'modern alternative rock', 'modern rock']",58,2020-03-20,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Overseas,Thundercat,61,487421,"['afrofuturism', 'hip hop', 'indie soul']",72,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hand Over My Heart,The Secret Sisters,41,37793,"['alternative country', 'deep new americana', 'folk', 'indie folk', 'new americana']",54,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Good Times,Tom Speight,42,32359,['indie anthem-folk'],56,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heavy Weather,The Rubens,54,150357,"['australian hip hop', 'australian indie', 'australian pop']",64,2020-04-22,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bad Child,Tones And I,81,1114010,['australian pop'],87,2020-03-11,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Until I Found A Rose,The Howl & The Hum,43,11733,"['english indie rock', 'york indie']",43,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Thirty Eight,The Ivy,45,14199,"['hopebeat', 'indie poptimism', 'indietronica']",48,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Outer Sunset,Tycho,52,553522,"['chillwave', 'downtempo', 'electronica', 'indietronica', 'intelligent dance music']",66,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Tangerine,The Lazy Eyes,48,1573,[],37,2020-04-09,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Meaning Of Life,The Lottery Winners,42,4023,"['english indie rock', 'manchester indie']",43,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Salt And The Sea - Recorded at Electric Lady Studios NYC,The Lumineers,53,3706921,"['folk-pop', 'modern rock', 'stomp and holler']",79,2020-03-18,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Take Back The Track,The Magic Gang,49,55621,"['brighton indie', 'english indie rock', 'modern alternative rock', 'modern rock', 'rock']",54,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+What Have You Got To Lose,The Magic Gang,54,55621,"['brighton indie', 'english indie rock', 'modern alternative rock', 'modern rock', 'rock']",54,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+So Cool,Trunky Juno,33,151,[],20,2020-04-28,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karma,The Main Squeeze,50,42307,['retro soul'],45,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Take Yourself Home,Troye Sivan,78,4423539,"['australian pop', 'dance pop', 'electropop', 'pop', 'post-teen pop', 'viral pop']",81,2020-04-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jupiter,The Marías,59,279756,"['bedroom pop', 'indie pop', 'la indie']",66,2020-03-20,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Hold It Together,The Marías,62,279756,"['bedroom pop', 'indie pop', 'la indie']",66,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Call Your Name,Tora,57,1929,[],46,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Living In A Ghost Town,The Rolling Stones,72,8494293,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']",83,2020-04-23,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pick Me,Wafia,35,71567,"['australian hip hop', 'australian indie', 'australian pop']",64,2020-05-05,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lover,Water and Salt,46,26,[],34,2020-04-05,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Cure,Watkins Family Hour,41,6175,"['indie folk', 'new americana', 'progressive bluegrass']",39,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deep Dream,STRFKR,46,295953,"['alternative dance', 'chillwave', 'indie pop', 'indie rock', 'indietronica', 'modern rock', 'shimmer pop', 'vapor soul']",65,2020-03-12,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Helplessly Hoping,Ryan Montbleau,48,32147,"['deep new americana', 'indie folk', 'jam band', 'modern folk rock']",56,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghost,Wolf,52,2134,[],44,2020-04-02,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Play It Safe,Wolf,51,2134,[],44,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Red Bird Morning,S.G. Goodman,36,575,[],32,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Still the Same (feat. Boy In Space),SHY Martin,67,138995,"['electropop', 'norwegian pop', 'pop', 'post-teen pop', 'swedish electropop', 'tropical house']",72,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+The Wheel - Live with the Metropole Orkest,SOHN,38,231996,"['electropop', 'indie soul', 'indietronica', 'vapor soul']",54,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Budapest (feat. Shy Boys),STRFKR,46,295953,"['alternative dance', 'chillwave', 'indie pop', 'indie rock', 'indietronica', 'modern rock', 'shimmer pop', 'vapor soul']",65,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pressure Love,Safario,54,3328,['norwegian pop rap'],42,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+If It's Not You (feat. N.Y.C.K.),St. South,52,45114,['vapor soul'],50,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kangaroo,Winnetka Bowling League,48,15556,['la pop'],51,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+The Outside,Will Killen,22,2592,['leeds indie'],29,2020-04-29,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+This City - Acoustic,Sam Fischer,58,30934,[],73,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Upside Down (feat. Grouplove),Whethan,59,172819,"['edm', 'electropop', 'indie pop', 'indie poptimism', 'indietronica', 'pop', 'tropical house', 'vapor soul', 'vapor twitch']",71,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Let Me Down,Samaria,32,7821,['indie r&b'],35,2020-04-21,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Come to You,Wet,23,213699,"['brooklyn indie', 'electropop', 'indie pop', 'indie poptimism', 'indietronica', 'nyc pop', 'pop', 'vapor soul']",60,2020-05-07,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wreck - Remix,Samica,43,605,[],32,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outcry,Ryan McMullan,44,31315,['indie anthem-folk'],53,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Brave,Ruston Kelly,53,26678,"['indie folk', 'new americana']",56,2020-04-13,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can't Get Out,Woods,23,69137,"['brooklyn indie', 'freak folk', 'garage psych', 'indie rock', 'modern folk rock', 'neo-psychedelic', 'noise pop', 'stomp and holler']",45,2020-05-05,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+somebody new,Wrabel,35,142953,"['electropop', 'indie cafe pop', 'indie pop', 'indie poptimism', 'indiecoustica', 'indietronica', 'neo mellow', 'pop', 'pop rock', 'uk pop']",69,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Treat You Right,Yellow Days,55,319089,['bedroom pop'],63,2020-05-01,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Distance,Yebba,20,97415,[],68,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WAKING UP DOWN,Yaeji,57,220121,"['art pop', 'electropop', 'escape room', 'experimental house', 'indietronica']",63,2020-03-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WEAKEND (feat. D Smoke),Rhyon Brown,43,1116,[],39,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FONDA ON THE ROOF,Richard Fairlie,52,3539,['indie cafe pop'],43,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bad Friend,Rina Sawayama,24,174541,"['art pop', 'dance pop', 'electropop', 'escape room', 'pop']",69,2020-04-15,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+THESE DAYS 요즘,Yaeji,53,220121,"['art pop', 'electropop', 'escape room', 'experimental house', 'indietronica']",63,2020-04-02,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WHAT WE DREW 우리가 그려왔던,Yaeji,52,220121,"['art pop', 'electropop', 'escape room', 'experimental house', 'indietronica']",63,2020-03-31,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fuck this World (Interlude),Rina Sawayama,40,174541,"['art pop', 'dance pop', 'electropop', 'escape room', 'pop']",69,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Knock on a Hollow,Tom Joshua,39,788,[],28,2020-03-11,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Pacific,Roo Panes,46,143775,"['british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk', 'indiecoustica', 'new americana', 'stomp and holler']",60,2020-03-20,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weird!,YUNGBLUD,70,831685,"['british indie rock', 'modern alternative rock', 'modern rock', 'rock']",77,2020-04-22,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Quantum Physics,Ruby Waters,48,4320,['canadian contemporary r&b'],42,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+i hope you love somebody (demo),Wrabel,51,142953,"['electropop', 'indie cafe pop', 'indie pop', 'indie poptimism', 'indiecoustica', 'indietronica', 'neo mellow', 'pop', 'pop rock', 'uk pop']",69,2020-04-10,2020-05-09,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kinky Living,Rustin Man,29,4909,['chamber psych'],41,2020-03-20,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+327,Westside Gunn,67,83033,"['alternative hip hop', 'boom bap', 'hip hop', 'underground hip hop']",67,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+don't forget to breathe today,San Holo,49,552973,"['edm', 'electro house', 'electronic trap', 'electropop', 'pop edm', 'vapor twitch']",69,2020-04-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Think I'll Stay,Westerman,45,19344,['uk alternative pop'],51,2020-03-11,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Fields of Knowing,Skyline Motel,24,814,[],34,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Looking at the World from the Bottom of a Well,Sleeping At Last,50,841359,"['ambient worship', 'chamber pop', 'dreamo', 'pop']",75,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+slowdown,Smallpools,53,188755,"['hopebeat', 'indie pop', 'indie poptimism', 'indietronica', 'la indie', 'la pop', 'metropopolis', 'modern alternative rock', 'modern rock', 'pop rock']",61,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Tempo,Smino,64,355337,"['alternative r&b', 'hip hop', 'rap', 'underground hip hop']",72,2020-03-30,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Yours,Snowk,49,538,[],38,2020-04-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bloodstream,Soccer Mommy,58,139445,"['art pop', 'chamber pop', 'electropop', 'indie folk', 'indie pop', 'indie rock', 'small room']",62,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Grind (feat. Yoshi Flower),Soleima,46,12206,"['danish electropop', 'danish pop']",50,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sometimes,Somni,44,3119,[],46,2020-02-26,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Straightfaced,Spacey Jane,51,23892,"['australian garage punk', 'australian hip hop', 'australian indie', 'australian indie rock', 'fremantle indie', 'perth indie']",56,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+When Did We Get So Normal?,Spector,43,36861,"['english indie rock', 'shimmer pop']",44,2020-03-31,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Hero,Weezer,47,1976632,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'pop rock', 'post-grunge', 'rock']",76,2020-05-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+That's It,Marlo The Barbarian,0,37,[],0,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+FLYY,Spoort,25,353,[],18,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Eye,Waxahatchee,55,93374,"['alabama indie', 'art pop', 'chamber pop', 'freak folk', 'indie folk', 'indie pop', 'indie punk', 'indie rock', 'stomp and holler']",62,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Can’t Do Much,Waxahatchee,49,93374,"['alabama indie', 'art pop', 'chamber pop', 'freak folk', 'indie folk', 'indie pop', 'indie punk', 'indie rock', 'stomp and holler']",62,2020-03-16,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Going Soft,Sports Team,43,26432,"['english indie rock', 'modern alternative rock', 'modern rock']",49,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Young Folks,Sleeping At Last,48,841359,"['ambient worship', 'chamber pop', 'dreamo', 'pop']",75,2020-03-11,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Underwater,Skye Holland,38,1445,[],39,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orange and Blue,Sarah Jarosz,44,84269,"['folk', 'indie folk', 'lilith', 'new americana', 'progressive bluegrass', 'stomp and holler']",56,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Line,Westerman,17,19344,['uk alternative pop'],51,2020-05-07,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Waiting On Design,Westerman,40,19344,['uk alternative pop'],51,2020-04-07,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No Regrets,Scott & Young,38,354,[],30,2020-03-20,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Do You Really Wanna Know?,Sea Girls,53,48197,"['english indie rock', 'indie anthem-folk', 'modern alternative rock', 'modern rock', 'rock']",59,2020-04-29,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Why Won't You Admit,Sea Girls,55,48197,"['english indie rock', 'indie anthem-folk', 'modern alternative rock', 'modern rock', 'rock']",59,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Closer,Sedona,34,1615,[],28,2020-02-27,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cookout,Serena Isioma,48,2122,[],43,2020-03-18,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mhmm,Shameik Moore,30,5889,['alternative r&b'],31,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Closer,Shannon Matthew Vanya,43,157,[],30,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seventeen - feat. Norah Jones,Sharon Van Etten,52,305514,"['art pop', 'chamber pop', 'chamber psych', 'dream pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'melancholia', 'new americana', 'new jersey indie', 'stomp and holler']",64,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rapper Weed,SiR,66,306411,"['alternative r&b', 'hip hop', 'indie r&b', 'indie soul', 'la pop', 'rap']",71,2020-04-23,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+How Long,Sierra Hull,31,20874,"['bluegrass', 'indie folk', 'instrumental bluegrass', 'mandolin', 'new americana', 'progressive bluegrass']",39,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+I Won't Let You Let Me Down,Siobhan Miller,35,3879,['scottish folk'],37,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+May Morning Dew,Siobhan Miller,35,3879,['scottish folk'],37,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+All Your Love,Sir Sly,51,195119,"['electropop', 'indie pop', 'indie poptimism', 'indie rock', 'indietronica', 'la indie', 'modern alternative rock', 'modern rock', 'shimmer pop', 'vapor soul']",57,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Zeus,Sirens Of Lesbos,37,20338,"['deep tropical house', 'groove room', 'tropical house']",45,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Summery In Angus,Marsicans,38,20043,"['english indie rock', 'leeds indie', 'modern alternative rock']",43,2020-04-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Catching Eyes,49th & Main,30,99,[],19,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Twinkle Twinkle,Margo Price,49,75062,"['alternative country', 'indie folk', 'nashville americana', 'new americana', 'outlaw country', 'roots americana', 'roots rock']",48,2020-03-11,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+One More Song,Classixx,47,58700,"['alternative dance', 'chillwave', 'electrofox', 'filter house', 'indietronica', 'nu disco']",50,2020-03-25,2020-05-09,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weekend,Clubhouse,32,2996,['columbus ohio indie'],35,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+captain's dance with the devil,Cody Simpson,55,1229188,"['australian pop', 'dance pop', 'pop', 'post-teen pop', 'social media pop', 'viral pop']",67,2020-04-10,2020-05-09,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1 x 1 (feat. Wesley Schultz),Cold War Kids,35,621789,"['garage rock', 'indie pop', 'indie rock', 'modern alternative rock', 'modern rock', 'piano rock', 'pop rock', 'rock', 'stomp and holler']",65,2020-05-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heather,Conan Gray,56,1021897,"['bedroom pop', 'indie pop', 'pop']",81,2020-03-20,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Little League,Conan Gray,68,1021897,"['bedroom pop', 'indie pop', 'pop']",81,2020-03-20,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+This Is One DJ You Don't Want To Fuck With,Count Baldor,30,222,[],24,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Close at My Side,Courtney Hartman,37,2320,"['indie folk', 'neo-traditional bluegrass']",45,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+If I Told,Courtney Marie Andrews,27,20647,"['alternative country', 'indie folk', 'modern folk rock', 'new americana']",46,2020-03-05,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Burlap String,Courtney Marie Andrews,44,20647,"['alternative country', 'indie folk', 'modern folk rock', 'new americana']",46,2020-04-16,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+If I Told,Courtney Marie Andrews,50,20647,"['alternative country', 'indie folk', 'modern folk rock', 'new americana']",46,2020-03-05,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Supplier!,Crisaunt,2,17546,[],54,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Love Is All We Share,Cut Copy,23,259108,"['alternative dance', 'australian dance', 'australian electropop', 'chillwave', 'dance-punk', 'electronic rock', 'electronica', 'electropop', 'filter house', 'indie pop', 'indie rock', 'indietronica', 'modern rock', 'neo-synthpop', 'new rave', 'nu disco', 'shimmer pop']",55,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deep Black Sea,D'Arcy Spiller,32,271,[],22,2020-04-29,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Glow,DMA'S,4,156841,"['australian indie', 'modern rock']",64,2020-04-16,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Whenever You Call,DOUBLECAMP,40,2243,[],43,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Heat Seeker,DREAMERS,59,88296,"['indie pop', 'indie poptimism', 'modern alternative rock', 'modern rock', 'pop rock', 'rock']",61,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Alice Hyatt,Damien Jurado,42,129488,"['alternative country', 'chamber pop', 'freak folk', 'indie folk', 'indie rock', 'new americana', 'slow core', 'stomp and holler']",58,2020-03-31,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Just Friends,Daniel Allan,37,1027,[],36,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wolf,Darkstar,44,21214,['bass music'],41,2020-04-22,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+i don't want to watch the world end with someone else,Clinton Kane,28,37120,[],70,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Battered & Bruised,Circa Waves,48,196649,"['english indie rock', 'indie surf', 'liverpool indie', 'modern alternative rock', 'modern rock', 'rock']",63,2020-03-13,2020-05-09,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+I Wanna Live in Your Bedroom,David Ramirez,39,29310,"['acoustic pop', 'austin americana', 'deep new americana', 'indie folk', 'indiecoustica', 'new americana', 'stomp and holler']",44,2020-04-01,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Count To Ten,Ciaran Lavery,36,28651,"['british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk', 'irish singer-songwriter']",50,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Like I Loved You,Caribou,54,463504,"['alternative dance', 'art pop', 'chamber pop', 'chillwave', 'electronica', 'electropop', 'folktronica', 'indie rock', 'indie soul', 'indietronica', 'intelligent dance music', 'new rave']",68,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+One of Us,Catholic Action,27,4307,"['english indie rock', 'scottish indie rock', 'scottish rock']",31,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+You Got a Feeling,Caveman,36,18101,['brooklyn indie'],34,2020-05-01,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weedman,Channel Tres,60,75877,"['indie soul', 'la pop']",60,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+forever,Charli XCX,67,1976939,"['candy pop', 'dance pop', 'electropop', 'escape room', 'metropopolis', 'pop', 'post-teen pop', 'tropical house']",78,2020-04-09,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Channel Orange In Your Living Room,Charlie Burg,55,45246,"['ann arbor indie', 'bedroom soul', 'indie cafe pop', 'indie pop', 'indie r&b', 'indietronica']",58,2020-04-21,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Climb,Charlie Cunningham,52,112196,"['british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk', 'neo mellow']",64,2020-03-16,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Freedom,Charlotte OC,46,21886,['vapor pop'],49,2020-02-28,2020-05-09,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blank Slate,Chicano Batman,30,131060,['la indie'],59,2020-04-21,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+I know It,Chicano Batman,37,131060,['la indie'],59,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+I Know It,Chicano Batman,39,131060,['la indie'],59,2020-05-01,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Color my life,Chicano Batman,53,131060,['la indie'],59,2020-02-25,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Pirouette,Chiiild,62,13945,['alternative r&b'],54,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Time,Childish Gambino,53,6195564,"['atl hip hop', 'hip hop', 'pop rap', 'rap']",83,2020-03-23,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Time (feat. Ariana Grande),Childish Gambino,72,6195564,"['atl hip hop', 'hip hop', 'pop rap', 'rap']",83,2020-03-22,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Growing Up,Christian Alexander,51,4999,[],47,2020-04-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Get The Old Band Back Together,Christian Lee Hutson,21,5056,['deep new americana'],39,2020-05-07,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lys (feat. Menke),Christian Löffler,56,138834,"['electronica', 'hamburg electronic', 'microhouse', 'minimal techno', 'new french touch', 'organic electronic']",63,2020-03-12,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"People, I've been sad",Christine and the Queens,66,492531,"['art pop', 'electropop', 'metropopolis', 'shimmer pop']",68,2020-02-27,2020-05-09,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wenn's draußen grün wird,Das Paradies,46,6776,"['german indie', 'german pop', 'leipzig indie']",39,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crush,Day Wave,31,86039,"['bay area indie', 'chillwave', 'indie pop', 'indie rock', 'indietronica', 'oakland indie', 'shimmer pop']",57,2020-04-24,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Moonshine - Chronometric Edit,Caravan Palace,12,667738,"['electro swing', 'nu jazz']",67,2020-05-07,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pure Shores,Eliza Shaddad,43,7322,[],41,2020-03-07,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Love Is A Drug,Empress Of,46,78124,"['alternative r&b', 'art pop', 'chillwave', 'dance pop', 'electropop', 'escape room', 'etherpop', 'experimental pop', 'hyperpop', 'indie r&b', 'indietronica', 'shimmer pop', 'shiver pop', 'vapor soul']",64,2020-03-31,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Give Me Another Chance,Empress Of,49,78124,"['alternative r&b', 'art pop', 'chillwave', 'dance pop', 'electropop', 'escape room', 'etherpop', 'experimental pop', 'hyperpop', 'indie r&b', 'indietronica', 'shimmer pop', 'shiver pop', 'vapor soul']",64,2020-03-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mother,Eve Owen,29,1453,[],39,2020-04-29,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+01:32 AM / WALK ALONE,Everything Is Recorded,44,25999,"['alternative r&b', 'indie r&b', 'indie soul']",48,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chocolate Samurai,Fantastic Negrito,21,110241,"['bay area indie', 'funk', 'modern blues', 'modern blues rock']",50,2020-03-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I'm Warping Here,Feng Suave,37,98345,['bedroom pop'],57,2020-04-17,2020-05-09,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+-h-o-u-s-e-k-e-y-z-,Field Medic,43,23256,"['indie garage rock', 'indie rock', 'small room']",48,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Butterflies,Fiji Blue,15,3045,[],50,2020-05-07,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Out Loud (Acoustic) - Single Version,Fink,44,247181,"['chamber pop', 'ninja']",58,2020-03-19,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Drumset,Fiona Apple,64,638415,"['art pop', 'chamber pop', 'indie pop', 'lilith', 'permanent wave', 'piano rock', 'pop rock', 'singer-songwriter']",74,2020-04-17,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Under The Table,Fiona Apple,68,638415,"['art pop', 'chamber pop', 'indie pop', 'lilith', 'permanent wave', 'piano rock', 'pop rock', 'singer-songwriter']",74,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+A Hero's Death,Fontaines D.C.,30,91549,"['chamber psych', 'english indie rock', 'indie rock', 'irish indie rock', 'modern alternative rock']",56,2020-05-05,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Apartment,Foreign Air,55,68169,"['charlotte nc indie', 'electropop', 'indie pop', 'indie poptimism', 'indie rock', 'indietronica', 'modern alternative rock', 'modern rock', 'vapor soul']",56,2020-02-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Flesh and Blood,Franc Moody,54,52357,"['deep house', 'indie soul', 'new french touch', 'nu disco']",59,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chika (Scared),Fred again..,46,3214,[],60,2020-03-26,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Floors,Freida Mari,33,78,[],20,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Everybody's On Their Phone,GRANDMA,37,3612,[],41,2020-04-30,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Somebody New,Gabriela Bee,42,44427,[],46,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+One of Those Days - Piano Version,Gabrielle Aplin,52,539719,"['acoustic pop', 'dance pop', 'neo mellow', 'neo-singer-songwriter', 'pop', 'pop rock', 'uk pop', 'viral pop']",69,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Born Again,Ellis,28,3271,"['canadian shoegaze', 'ontario indie']",33,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+WHOLE WORLD (feat. Maxo),Earl Sweatshirt,64,1164402,"['alternative hip hop', 'escape room', 'experimental hip hop', 'hip hop', 'rap', 'underground hip hop']",71,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Potions,Day Wave,57,86039,"['bay area indie', 'chillwave', 'indie pop', 'indie rock', 'indietronica', 'oakland indie', 'shimmer pop']",57,2020-03-26,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+MAYBE IT'S ME,E^ST,49,41299,"['australian hip hop', 'australian indie', 'australian pop']",55,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Think About Things,Daði Freyr,59,19889,['icelandic pop'],59,2020-04-09,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Live Like You,DeWolff,42,27007,"['dutch americana', 'dutch blues', 'dutch indie', 'dutch pop', 'dutch rock']",43,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+I Got Money Now (feat. JID),Deante' Hitchcock,57,22653,"['atl hip hop', 'underground hip hop']",55,2020-04-15,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stone Cold,Deb Never,58,28953,[],52,2020-03-14,2020-05-09,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black Coffee,Delacey,54,23012,[],66,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Resolution,Dermot Kennedy,63,608905,"['folk-pop', 'irish pop', 'pop']",77,2020-03-04,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kickin' Pushin',Destiny Rogers,53,31137,['pop'],56,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+You Do You,Dillon Francis,56,972815,"['big room', 'brostep', 'dance pop', 'edm', 'electro house', 'electronic trap', 'electropop', 'house', 'moombahton', 'pop', 'tropical house']",70,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lose Your Love,Dirty Projectors,35,199133,"['art pop', 'brooklyn indie', 'chamber pop', 'chillwave', 'experimental pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'indietronica', 'noise pop']",55,2020-05-05,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Search For Life,Dirty Projectors,45,199133,"['art pop', 'brooklyn indie', 'chamber pop', 'chillwave', 'experimental pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'indietronica', 'noise pop']",55,2020-03-24,2020-05-09,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Search For Life,Dirty Projectors,46,199133,"['art pop', 'brooklyn indie', 'chamber pop', 'chillwave', 'experimental pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'indietronica', 'noise pop']",55,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Expressing What Matters,Disclosure,63,1724019,"['house', 'pop', 'tropical house', 'uk dance']",82,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Full Speed,Drea Réal,32,160,[],19,2020-04-27,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Running Around My Head,Dual,44,496,[],32,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ay, Amor",Dulce y Agraz,45,19547,"['chilean indie', 'chilean rock', 'concepcion indie']",44,2020-04-17,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+White Water,Dustin Tebbutt,54,97270,"['australian indie', 'chamber pop', 'indie anthem-folk', 'indie folk']",60,2020-04-02,2020-05-09,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dance Monkey,Dylan O'Neil,48,22,[],34,2020-04-05,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cloak of the Night,EOB,43,23760,['oxford indie'],52,2020-04-09,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Focus,EVAN GIIA,46,10933,['nyc pop'],55,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Like I Loved You,Caribou,39,463504,"['alternative dance', 'art pop', 'chamber pop', 'chillwave', 'electronica', 'electropop', 'folktronica', 'indie rock', 'indie soul', 'indietronica', 'intelligent dance music', 'new rave']",68,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can't Cool Me Down,Car Seat Headrest,57,251808,"['alternative rock', 'anti-folk', 'art pop', 'chamber pop', 'indie pop', 'indie punk', 'indie rock', 'noise pop']",66,2020-02-26,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Eighteen,Gaspar Narby,39,988,[],33,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Body Pump,Aluna,57,1389,[],50,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Heart-Shaped Box,Amber Mark,41,157304,"['alternative r&b', 'electropop', 'indie r&b', 'indie soul', 'neo soul', 'nyc pop']",64,2020-04-29,2020-05-09,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Waiting - Demo,Amber Mark,54,157304,"['alternative r&b', 'electropop', 'indie r&b', 'indie soul', 'neo soul', 'nyc pop']",64,2020-04-15,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shimmy,Aminé,70,1210535,"['hip hop', 'pop rap', 'portland hip hop', 'rap']",76,2020-02-26,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Canta,Amo Amo,42,3768,[],48,2020-04-22,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No Place,Amtrac,43,54940,"['chillwave', 'deep house', 'edm', 'house', 'indie soul', 'indietronica', 'new french touch', 'nu disco', 'progressive house', 'tropical house', 'vapor soul', 'vapor twitch']",59,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Wedding Song,Andrea von Kampen,35,10187,"['indie folk', 'indiecoustica', 'new americana', 'pop folk']",49,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+All Mirrors (Johnny Jewel remix),Angel Olsen,51,267484,"['alternative americana', 'art pop', 'chamber pop', 'chamber psych', 'dream pop', 'experimental pop', 'freak folk', 'indie pop', 'indie rock']",61,2020-04-09,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+If You Call,Angie McMahon,28,57949,"['australian indie', 'australian pop']",54,2020-05-07,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eden - Hunted Version,Anna Calvi,39,81768,"['art pop', 'chamber pop', 'chamber psych']",50,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Can You Hear Me,Anson Seabra,63,294820,"['indie cafe pop', 'pop']",73,2020-04-01,2020-05-09,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MISCOMMUNICATIONS,Ant Saunders,57,53031,['pop'],72,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not Every Lover,Anthony da Costa,43,1585,"['deep new americana', 'indie folk']",40,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Bull Frogs Croon: ii. The Darkness,Aoife O'Donovan,37,27361,"['folk', 'indie folk', 'new americana', 'progressive bluegrass']",50,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Loretta,Aoife O'Donovan,43,27361,"['folk', 'indie folk', 'new americana', 'progressive bluegrass']",50,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+New Conditions,April,50,1609,[],45,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+(We're) Alive,Argonaut & Wasp,33,10926,"['indietronica', 'vapor soul']",45,2020-04-29,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Homonormo (KAYE Remix),Arthur Moon,32,3176,[],35,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Lunar Phase,Ashley Alexander,39,316,['nz pop'],28,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Just Friends,Audrey Mika,27,121316,['pop'],67,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Not My Baby,Amadelle,50,1340,[],37,2020-03-18,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OTT,Allday,54,85428,"['australian hip hop', 'australian indie', 'australian pop', 'australian trap']",61,2020-04-16,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Overtime,Ayelle,35,16110,"['alternative r&b', 'indie electropop', 'indie r&b', 'vapor soul']",54,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bad Advice,All We Are,39,20058,['liverpool indie'],36,2020-03-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Above All Else, Be Kind - Single Version",AJIMAL,35,1170,['chamber pop'],28,2020-04-20,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Go Somewhere,APRE,40,11275,"['english indie rock', 'kent indie']",46,2020-04-07,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No Tengo,ARTHUR,44,8004,"['experimental indie', 'indie garage rock']",40,2020-04-22,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Slam (Angel Miners),AWOLNATION,52,1677088,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock', 'stomp pop']",70,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mayday!!! Fiesta Fever,AWOLNATION,57,1677088,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock', 'stomp pop']",70,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pacific Coast Highway In The Movies (feat. Rivers Cuomo of Weezer),AWOLNATION,61,1677088,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock', 'stomp pop']",70,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brother,Aaron Smith,58,5465,[],54,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+My Space Is Overgrown,Aayushi,7,1130,[],26,2020-05-04,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pink Sky (Endless Summer),Abbie Ozard,43,1712,"['liverpool indie', 'manchester indie']",36,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Lemon Drop,Absofacto,51,74722,"['indie psych-pop', 'shimmer psych']",64,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lado B,Ainda,44,25673,['argentine indie'],48,2020-03-20,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+no vuelvas a mirar atrás,Alaina Castillo,55,41929,['pop'],66,2020-04-10,2020-05-09,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Six Feet Apart,Alec Benjamin,74,1510156,['pop'],82,2020-04-09,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Disraeli Woman,Alex Izenberg,36,3790,['baroque pop'],31,2020-03-31,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+happy for you,Alex Porat,42,21282,['indonesian pop'],55,2020-04-29,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+There's No Other,Alex Siegel,47,4003,['bedroom pop'],45,2020-04-24,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+My Best Friend (feat. Coach Party),Alfie Templeman,51,34859,['english indie rock'],54,2020-04-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Don't Sleep,Alice Ivy,45,10261,"['australian electropop', 'australian hip hop', 'australian indie', 'australian pop']",47,2020-04-02,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rise,Alison Mosshart,46,8186,[],48,2020-04-09,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mountain Baby,Austra,48,124353,"['alternative dance', 'art pop', 'canadian electropop', 'chamber psych', 'chillwave', 'electronica', 'electropop', 'experimental pop', 'indietronica', 'metropopolis', 'new rave', 'shimmer pop']",52,2020-04-16,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dizzy,Azure Ryder,58,2665,[],50,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fly Away,Caitlyn Smith,48,24936,"['contemporary country', 'country pop', 'indiecoustica']",54,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Mano a Mano,Blanco White,47,69891,"['british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk']",60,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+I Contain Multitudes,Bob Dylan,60,4123230,"['album rock', 'classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter']",78,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Endless Chase,Bowerbirds,37,37187,"['chamber pop', 'freak folk', 'melancholia', 'north carolina indie', 'stomp and holler']",38,2020-04-28,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A World So Full Of Love,Boy Scouts,41,4188,['indie folk'],35,2020-04-22,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Be Mine Tonight,Breakbot,50,315836,"['alternative dance', 'disco house', 'filter house', 'new french touch', 'nu disco']",64,2020-03-13,2020-05-09,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dear Life,Brendan Benson,41,21719,"['garage rock', 'jangle pop', 'power pop']",44,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Killa,Brennan,33,354,[],19,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The World is Ending,Brent Cobb,50,43378,"['deep new americana', 'indie folk', 'modern southern rock', 'new americana', 'roots americana', 'roots rock']",53,2020-03-25,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forced Convalescence,Bright Eyes,57,421418,"['anti-folk', 'chamber pop', 'indie folk', 'indie pop', 'indie rock', 'melancholia', 'omaha indie', 'slow core', 'stomp and holler']",64,2020-04-21,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Persona Non Grata,Bright Eyes,58,421418,"['anti-folk', 'chamber pop', 'indie folk', 'indie pop', 'indie rock', 'melancholia', 'omaha indie', 'slow core', 'stomp and holler']",64,2020-03-24,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Garden,Briston Maroney,51,35687,"['indie pop', 'nashville indie']",59,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"You and Your Folks, Me and My Folks - Recorded at East West Studios",Brittany Howard,40,96134,"['modern blues rock', 'neo soul']",58,2020-04-15,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stay High - Recorded at East West Studios,Brittany Howard,43,96134,"['modern blues rock', 'neo soul']",58,2020-04-15,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Most Beautiful Thing,Bruno Major,63,343386,"['indie r&b', 'pop']",70,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paper Cups,Bryde,38,7234,['welsh indie'],37,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Silence,Bryde,41,7234,['welsh indie'],37,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LEMONS - Demo,Brye,68,26342,[],54,2020-03-20,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+We Had A Good Time,Bullion,42,8536,"['chamber psych', 'wonky']",40,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nydia,Buscabulla,17,34629,"['indietronica', 'latintronica', 'puerto rican indie']",47,2020-05-07,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Forever - Separate But Together,CHVRCHES,39,1113242,"['electropop', 'indie pop', 'indie poptimism', 'indietronica', 'metropopolis', 'neo-synthpop', 'shimmer pop']",74,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samara,Blanco White,55,69891,"['british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk']",60,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Summer All Over,Blake Mills,47,31107,"['indie folk', 'modern folk rock', 'stomp and holler']",50,2020-04-22,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Goodbye Blue,BADBADNOTGOOD,56,401049,"['alternative hip hop', 'canadian modern jazz', 'escape room', 'funk', 'indie soul']",64,2020-04-28,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paralyze,Bjørnskov,39,8468,['danish pop'],56,2020-05-01,2020-05-09,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KISS ME,BAYNK,49,58198,"['alternative r&b', 'edm', 'electropop', 'indie electropop', 'indie r&b', 'indie soul', 'indietronica', 'new french touch', 'tropical house', 'vapor soul', 'vapor twitch']",62,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reflection of the Moon,BE GOOD,40,1419,['oxford indie'],38,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Lownely,BENEE,45,257293,"['nz pop', 'pop']",83,2020-05-05,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+I Don't Wanna Be,BLVTH,55,12508,"['german cloud rap', 'indie deutschrap']",48,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SUGAR (Remix) [feat. Dua Lipa],BROCKHAMPTON,75,1379281,"['boy band', 'pop', 'rap']",81,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Confidant,BabyJake,61,11398,[],62,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Emergency,Babyxsosa,34,730,[],31,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+I'm Not Having Any Fun,Bad Suns,58,336436,"['indie pop', 'indie poptimism', 'indietronica', 'la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock']",64,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Renee's Song,Bazzi,78,3174725,"['pop', 'post-teen pop']",85,2020-04-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Light at the End of the Tunnel,Bel Heir,37,3381,['gauze pop'],33,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Just Wanna Be Your Friend,Ben Kessler,34,1548,[],40,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Make It Thru the Day.,Ben Zaidi,41,17253,['folk-pop'],44,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Atlantic City,Benjamin Francis Leftwich,31,285881,"['chamber pop', 'indie anthem-folk', 'indie folk', 'neo mellow', 'stomp and holler', 'york indie']",61,2020-05-01,2020-05-09,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sunny Afternoon,Benny Sings,47,54513,"['dutch pop', 'indie jazz', 'indie soul']",68,2020-04-29,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Let's Go Out,Berly,37,212,[],26,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Destined to Pretend,Beta Radio,6,44993,"['acoustic pop', 'calming instrumental', 'chamber pop', 'indie anthem-folk', 'indie folk', 'indiecoustica', 'new americana', 'stomp and flutter', 'stomp and holler']",57,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Our Remains - Acoustic,Beta Radio,44,44993,"['acoustic pop', 'calming instrumental', 'chamber pop', 'indie anthem-folk', 'indie folk', 'indiecoustica', 'new americana', 'stomp and flutter', 'stomp and holler']",57,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Feel,Big Society,41,468,[],28,2020-02-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Can't Be There Today,Billy Bragg,25,106373,"['alternative country', 'alternative rock', 'anti-folk', 'folk', 'folk punk', 'folk rock', 'permanent wave', 'roots rock', 'singer-songwriter', 'traditional folk', 'uk americana']",58,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ICU,Gameboi,23,1237,['hyperpop'],26,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Surface Tension,Genevieve Stokes,49,3460,[],41,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tryin' My Best, Los Angeles",Mandy Moore,49,464914,"['dance pop', 'hollywood', 'movie tunes', 'pop', 'post-teen pop']",69,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+How It Hurts,Keeka,46,85,[],39,2020-04-15,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chocolate. (ft. Ari Lennox),Kiana Ledé,69,530498,"['alternative r&b', 'deep pop r&b', 'indie r&b', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']",74,2020-04-03,2020-05-09,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LA Ukulele,Kid Indigo,41,5681,[],39,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Summer of Love (feat. The Griswolds),Kids In America,51,134,[],37,2020-04-22,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Wish I Was Better,Kina,72,378515,[],79,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Feel These Heavy Times,King Charles,44,74390,"['folk-pop', 'shimmer pop']",50,2020-04-17,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alone With You (feat. AlunaGeorge),Kito,60,12011,['electra'],53,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+B.Q.E,Kota the Friend,59,232853,"['hip hop', 'rap', 'underground hip hop']",68,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Exit,L'Impératrice,47,159419,"['french indie pop', 'french indietronica', 'indie soul', 'new french touch']",61,2020-04-09,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beginning - Edit,LA Priest,14,30631,"['dance-punk', 'new rave']",50,2020-05-06,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Want You,LU KALA,33,554,[],26,2020-04-29,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Automatic Driver - Tyler, The Creator Remix",La Roux,66,501230,"['alternative dance', 'art pop', 'dance pop', 'electropop', 'indietronica', 'neo-synthpop', 'new rave']",65,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Private Property feat. Twain (Sugarshack Sessions),Langhorne Slim,46,121507,"['anti-folk', 'chamber pop', 'deep new americana', 'indie folk', 'modern folk rock', 'new americana', 'roots rock', 'stomp and holler']",59,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sprout,Language Arts,20,344,[],11,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holy Ghost Fire,Larkin Poe,52,98017,['modern blues rock'],52,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wallflower,Latir,36,711,[],33,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Held Down,Laura Marling,60,357231,"['art pop', 'british folk', 'british singer-songwriter', 'chamber pop', 'indie folk', 'indie pop', 'singer-songwriter', 'stomp and holler']",66,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Old Nudes,Lauran Hibberd,42,5096,"['english indie rock', 'isle of wight indie']",35,2020-04-23,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Modern Loneliness,Lauv,80,2717351,"['pop', 'post-teen pop']",88,2020-03-06,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chosen,LeeLee,28,145,[],20,2020-04-27,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+I Was On Time,Kevin Morby,44,162107,"['art pop', 'chamber pop', 'freak folk', 'funk', 'indie folk', 'indie rock', 'kc indie', 'modern folk rock', 'roots rock', 'soul', 'stomp and holler']",61,2020-03-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+In Too Deep,Katzù Oso,39,16518,['bedroom pop'],42,2020-04-21,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Inside Friend (feat. John Mayer),Leon Bridges,73,982177,"['modern blues', 'soul']",77,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wheel,Katie Von Schleicher,42,3838,[],33,2020-04-23,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Common Sense,Joshua Bassett,67,71160,['social media pop'],65,2020-04-03,2020-05-09,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Whiskey Whiskey,Joshua Burnside,3,6751,"['indie folk', 'irish singer-songwriter']",47,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JOY (Warm Bullet),Joy Anonymous,35,386,[],35,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Anyone But Me,Joy Crookes,61,110240,"['alternative r&b', 'indie r&b', 'indie soul', 'uk contemporary r&b']",60,2020-04-08,2020-05-09,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rollerskates,Jupiter,36,22732,"['alternative dance', 'electrofox', 'filter house', 'nu disco', 'retro electro']",37,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calm Yourself Down,Justin Wade Tam,41,131,[],27,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Everyone Knows,Jutes,45,25817,"['deep underground hip hop', 'emo rap', 'trap soul']",51,2020-03-05,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Exhale - Edit,Jónsi,46,126508,"['compositional ambient', 'icelandic pop', 'post-rock']",56,2020-04-23,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Backbone,KALEO,63,935367,"['icelandic indie', 'icelandic rock', 'modern alternative rock', 'modern rock']",73,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Every Hour,KIAN,48,22621,['australian pop'],52,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fly,KONGOS,46,228852,"['modern alternative rock', 'modern blues rock', 'modern rock', 'south african rock']",59,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hiding In The Dark,KUOKO,47,780,[],34,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Go Out,KYTES,48,23631,"['german indie', 'german indie pop', 'german pop', 'german rock', 'munich indie']",53,2020-02-28,2020-05-09,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alright,KYTES,52,23631,"['german indie', 'german indie pop', 'german pop', 'german rock', 'munich indie']",53,2020-02-28,2020-05-09,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Porsche,Kacy Hill,44,57736,"['electropop', 'indie electropop', 'indie poptimism', 'la pop', 'vapor soul']",63,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Moonshine,Kakkmaddafakka,51,149304,"['bergen indie', 'norwegian indie']",55,2020-03-25,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+While God Was Sleepin'...,Kari Faux,47,57514,"['alternative r&b', 'escape room', 'indie r&b', 'indie soul', 'trap queen']",53,2020-04-07,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A Couple Things,Kate Bollinger,22,14334,['charlottesville indie'],50,2020-03-11,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Define,Kathleen Frances,21,159,[],19,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Older Than I Am,Lennon Stella,71,207256,"['canadian pop', 'dance pop', 'electropop', 'pop', 'post-teen pop']",80,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paper Thin,Lianne La Havas,44,536838,"['british soul', 'indie r&b', 'indie soul', 'neo soul', 'soul']",64,2020-05-04,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pull Me Back In,Josh Kumra,29,5443,[],46,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Strange Magic,Lowland Hum,36,9891,"['charlottesville indie', 'indie folk', 'pop folk']",46,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Boy With The Sun Song,Lucy Lu,27,3729,['bedroom soul'],36,2020-04-16,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Undefeated,Luke Sital-Singh,37,70889,"['acoustic pop', 'british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk']",54,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+i'm lonely,Luz,39,6933,[],47,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Migration of Souls,M. Ward,49,163986,"['alternative country', 'anti-folk', 'chamber pop', 'freak folk', 'indie folk', 'indie pop', 'new americana', 'portland indie', 'slow core', 'stomp and holler']",57,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water Overhead,MAALA,25,16501,['nz pop'],39,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ada Road,MAVICA,41,2735,"['murcia indie', 'spanish indie folk']",41,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Salt N Pepper,MKSTN,23,210,[],16,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+What She Said,MOSSS,57,11116,[],51,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Slow Drowning,Mabes,47,3620,[],55,2020-05-01,2020-05-09,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wreck It All,Macey Estes,28,277,[],19,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lissajous,Macula Dog,19,923,"['experimental indie', 'experimental pop']",16,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coming Of Age,Maddie Medley,31,2597,['nashville singer-songwriter'],38,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Buzz,Maddie Medley,48,2597,['nashville singer-songwriter'],38,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+I Don't Want Your Money,Mae Muller,20,36248,"['uk contemporary r&b', 'uk pop']",53,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rome,Magnolian,32,2760,['mongolian pop'],35,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+View,Maia Wright,61,3700,['vocal trance'],69,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lay Your Head On Me (feat. Marcus Mumford) - Acoustic,Major Lazer,41,5958135,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop rap', 'tropical house']",83,2020-03-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Baby Bubblegum,Malaki,33,2578,['irish hip hop'],41,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+All Grown Up,Malory,22,565,[],23,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+When the Way Gets Dark,Lucinda Williams,48,141451,"['alternative country', 'country rock', 'folk', 'folk rock', 'heartland rock', 'indie folk', 'lilith', 'mellow gold', 'new americana', 'outlaw country', 'pop rock', 'roots rock', 'singer-songwriter', 'traditional folk']",60,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ROSIE,LoveLeo,62,53107,[],61,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+don't,50landing,33,1960,[],42,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LEMONS,LoveLeo,57,53107,[],61,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LMK,Lil Xxel,81,20420,[],68,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Dad's Van,Lila Drew,48,6348,[],48,2020-04-02,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Locket,Lila Drew,55,6348,[],48,2020-02-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Love You Twice,Lilla Vargen,20,9621,"['indie anthem-folk', 'irish singer-songwriter']",48,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Routine,Limón Limón,33,1133,[],29,2020-04-07,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Waste My Time,Liss,39,15299,"['danish electropop', 'danish pop']",39,2020-04-07,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hold On,Little Dragon,45,500590,"['alternative dance', 'alternative r&b', 'art pop', 'chillwave', 'downtempo', 'electronica', 'electropop', 'escape room', 'gothenburg indie', 'indie soul', 'indietronica', 'new rave', 'swedish electropop', 'swedish synthpop', 'trip hop']",68,2020-03-04,2020-05-09,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hold On,Little Dragon,54,500590,"['alternative dance', 'alternative r&b', 'art pop', 'chillwave', 'downtempo', 'electronica', 'electropop', 'escape room', 'gothenburg indie', 'indie soul', 'indietronica', 'new rave', 'swedish electropop', 'swedish synthpop', 'trip hop']",68,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Are You Feeling Sad?,Little Dragon,60,500590,"['alternative dance', 'alternative r&b', 'art pop', 'chillwave', 'downtempo', 'electronica', 'electropop', 'escape room', 'gothenburg indie', 'indie soul', 'indietronica', 'new rave', 'swedish electropop', 'swedish synthpop', 'trip hop']",68,2020-03-04,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alaska,Little Hurt,41,16086,[],40,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+damn right,Little Simz,44,235299,"['escape room', 'indie soul', 'trap queen', 'uk alternative hip hop']",61,2020-05-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"might bang, might not",Little Simz,50,235299,"['escape room', 'indie soul', 'trap queen', 'uk alternative hip hop']",61,2020-05-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Desire,Liza Anne,45,47607,"['chamber pop', 'indie anthem-folk', 'indie folk']",58,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+To the Mountains,Lizzy McAlpine,47,6921,[],45,2020-03-04,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sunday,Lonely God,0,28088,[],61,2020-05-07,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sunday,Lonely God,14,28088,[],61,2020-05-07,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Running Time,Loretta,42,945,[],32,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+When You're My Age,Lori McKenna,21,35564,"['folk', 'indie folk', 'lilith', 'modern folk rock', 'new americana', 'new england americana', 'traditional folk']",52,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Every Color (with Foster The People),Louis The Child,66,349886,"['edm', 'electropop', 'indie poptimism', 'pop', 'tropical house']",74,2020-03-04,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Losing Battles - Acoustic,Josh Ritter,52,119196,"['acoustic pop', 'alternative country', 'chamber pop', 'deep new americana', 'folk', 'indie folk', 'modern folk rock', 'neo mellow', 'new americana', 'progressive bluegrass', 'roots rock', 'stomp and holler']",57,2020-03-03,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Borderline,Jordan Rakei,58,194304,"['alternative r&b', 'indie jazz', 'indie r&b', 'indie soul', 'neo r&b', 'neo soul', 'soul']",66,2020-03-13,2020-05-09,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Circles - Acoustic,George Alice,42,6779,"['australian hip hop', 'australian pop']",45,2020-03-18,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Desde las Alturas,Guitarricadelafuente,61,98067,['spanish pop'],64,2020-04-03,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46th & Bliss,Hadji Gaviota,43,1529,[],38,2020-04-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wild,Hailaker,35,3184,['indie anthem-folk'],44,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wild,Hailaker,42,3184,['indie anthem-folk'],44,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grow into Love,Half Moon Run,31,208477,"['canadian indie', 'indie quebecois', 'quebec indie']",58,2020-05-06,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+In August,Half Waif,40,15193,"['art pop', 'chamber pop', 'experimental pop', 'indie folk', 'indie rock', 'small room']",42,2020-03-18,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Isabella,Hamilton Leithauser,43,25087,"['art pop', 'chamber pop', 'freak folk', 'indie folk', 'indie rock', 'stomp and holler']",55,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Garbage Men,Hamilton Leithauser,51,25087,"['art pop', 'chamber pop', 'freak folk', 'indie folk', 'indie rock', 'stomp and holler']",55,2020-04-10,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sleeping Sound,Hanging Valleys,34,2932,['pop folk'],36,2020-02-28,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Home,Hania Rani,41,26628,['neo-classical'],51,2020-05-01,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Be Slow - Acoustic,Harrison Storm,48,77639,"['chamber pop', 'indie anthem-folk', 'indie cafe pop', 'indie folk']",60,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue for You,Harve,31,350,[],21,2020-04-23,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Heavy,Haux,59,92308,"['chamber pop', 'electropop', 'indie anthem-folk', 'indie folk', 'vapor soul']",62,2020-04-15,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Great Advice,Hayley Gene Penner,39,2382,[],38,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Over Yet,Hayley Williams,54,182887,"['pop', 'pop punk']",71,2020-04-02,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dead Horse,Hayley Williams,64,182887,"['pop', 'pop punk']",71,2020-04-21,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+SOLDIERS,Headie One,53,119546,['uk hip hop'],74,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Just Stay,Hearing Aid Beige,17,260,[],19,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+One Month Off,Hearteyes,38,156,[],26,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+I Fell In Love,Helado Negro,54,61960,"['art pop', 'chamber pop', 'deep latin alternative', 'experimental pop', 'freak folk', 'indie rock']",55,2020-04-24,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+The Steps,HAIM,61,895219,"['dance pop', 'indie pop', 'indietronica', 'metropopolis', 'pop', 'pop rock', 'rock']",71,2020-03-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+No Más!,Grip,35,7412,[],41,2020-05-05,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Be Thou By My Side,Holy Hive,9,4065,[],39,2020-05-06,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soak Into This,Greta Stanley,45,5532,['australian alternative pop'],39,2020-03-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IIWII,George Ogilvie,43,52480,"['british singer-songwriter', 'chamber pop', 'indie anthem-folk', 'indie folk']",52,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Head in the Clouds,Gerry Cinnamon,54,242173,"['glasgow indie', 'modern rock', 'scottish indie rock']",71,2020-04-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Mayhem,Gerry Cinnamon,59,242173,"['glasgow indie', 'modern rock', 'scottish indie rock']",71,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Karaoke,Ginger Root,43,10734,[],43,2020-03-11,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Vertigo,Glades,42,70672,"['electropop', 'indie electropop', 'indie poptimism', 'indietronica', 'metropopolis', 'vapor soul']",54,2020-04-29,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Heart-Shaped Box,Glass Animals,64,1116370,"['gauze pop', 'modern rock', 'shiver pop']",74,2020-04-17,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stephanie,Glass Caves,41,8361,"['english indie rock', 'york indie']",34,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+If I Want To,Goody Grace,55,75663,"['emo rap', 'pop rap']",65,2020-04-23,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Volcanic,Gordi,24,29786,['australian electropop'],52,2020-05-06,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sandwiches,Gordi,43,29786,['australian electropop'],52,2020-02-26,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aeroplane Bathroom,Gordi,44,29786,['australian electropop'],52,2020-03-23,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Désolé (feat. Fatoumata Diawara),Gorillaz,70,5416830,"['alternative hip hop', 'art pop']",81,2020-02-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+The River,Goth Babe,56,80893,"['indie garage rock', 'indie pop', 'indie rock', 'modern rock', 'vapor soul']",63,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+End Summer,Goth Babe,60,80893,"['indie garage rock', 'indie pop', 'indie rock', 'modern rock', 'vapor soul']",63,2020-03-26,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Goodbye,Grace Gillespie,35,379,[],28,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"I miss you, I’m sorry",Gracie Abrams,71,33562,[],65,2020-04-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Let's Stay Inside,Grady,46,8244,"['indie electropop', 'indie r&b']",52,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+See You Through,Graham Colton,38,21415,"['acoustic pop', 'folk-pop', 'indiecoustica', 'neo mellow', 'okc indie', 'pop rock']",43,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+PWR,Grand Pax,29,846,[],25,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Just Like Kids (Miau),Hinds,43,97224,['indie surf'],48,2020-04-28,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bind,Howling,54,45802,['electronica'],51,2020-04-21,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Best Part - BBC Maida Vale Session,Jordan Rakei,48,194304,"['alternative r&b', 'indie jazz', 'indie r&b', 'indie soul', 'neo r&b', 'neo soul', 'soul']",66,2020-02-28,2020-05-09,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Only Children,Jason Isbell and the 400 Unit,54,116997,"['alternative country', 'deep new americana', 'folk', 'indie folk', 'new americana', 'roots rock', 'stomp and holler', 'traditional folk']",63,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Obvious Answer,Jaunt,39,3904,['toronto indie'],35,2020-04-16,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+not ur friend,Jeremy Zucker,75,885438,"['pop', 'post-teen pop']",83,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+COMING DOWN,Jeshi,48,3480,['uk alternative hip hop'],46,2020-03-25,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"30,000 FEET",Jeshi,49,3480,['uk alternative hip hop'],46,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lose You To Love Me,Jessie Blue and Zach Solomon,46,11,[],34,2020-04-05,2020-05-09,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Save A Kiss - Single Edit,Jessie Ware,33,491107,"['british soul', 'dance pop', 'electropop', 'indie r&b', 'neo soul']",65,2020-05-07,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+None Of Your Concern (feat. Big Sean),Jhené Aiko,71,3112214,"['alternative r&b', 'pop', 'r&b', 'urban contemporary']",84,2020-03-06,2020-05-09,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gimme the Beat Back,Jill Andrews,37,20236,"['acoustic pop', 'folk-pop', 'indie folk', 'new americana']",52,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+The City,Jockstrap,42,5387,['london indie'],38,2020-04-28,2020-05-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unknown Song,Joe Goddard,15,68727,"['alternative dance', 'electronica', 'indie soul', 'indietronica', 'new rave', 'nu disco']",58,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unavailable,Joey LaBeija,39,1685,"['escape room', 'vogue']",31,2020-04-09,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Twisted,Johanna Warren,29,4964,"['ambient folk', 'indie folk', 'portland indie']",39,2020-04-28,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Only the Truth,Johanna Warren,30,4964,"['ambient folk', 'indie folk', 'portland indie']",39,2020-04-07,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Don't Ask,John Craigie,1,21066,"['deep new americana', 'indie folk', 'new americana', 'stomp and holler', 'western americana']",50,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vallecito,John Craigie,39,21066,"['deep new americana', 'indie folk', 'new americana', 'stomp and holler', 'western americana']",50,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+We're All in This Together Now,John Paul White,49,26067,"['alabama indie', 'indie folk']",51,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Far Too Good - Live,John Smith,37,20045,"['british singer-songwriter', 'chamber pop', 'indie folk', 'liverpool indie']",53,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crash Site (Demo),Johnny Lloyd,35,4017,['london indie'],29,2020-03-06,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Care for Your Mother,Jordan Mackampa,60,43433,"['indie anthem-folk', 'indie soul']",57,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glitter,Jason Lucas,14,56,[],5,2020-05-08,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tomorrow,Jake Isaac,49,38708,"['folk-pop', 'indie anthem-folk']",52,2020-03-13,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+The Parting Glass - Live from the Late Late Show,Hozier,59,3871322,"['irish singer-songwriter', 'pop']",82,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Saviours of the City,Jake Bugg,57,685340,"['modern rock', 'nottingham indie']",64,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Where Did It All Go Wrong?,Hudson Taylor,50,96296,"['folk-pop', 'indie anthem-folk']",52,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Old Soul (acoustic),Hudson Taylor,54,96296,"['folk-pop', 'indie anthem-folk']",52,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Why Do People Grow (Long for the Day When I Had That Flip Phone),Huron John,46,5399,['bedroom pop'],51,2020-04-02,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Y,Hux,20,162,[],11,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+How,I See Rivers,31,3497,['ambient folk'],37,2020-04-24,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Down for Whatever,IRONTOM,42,11211,['modern alternative rock'],43,2020-04-17,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+NOT TOO DEEP (feat. 6LACK),India Shawn,61,6249,['indie r&b'],48,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Keeping Busy,Isaac Lewis,52,2552,['bedroom soul'],43,2020-04-22,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Why Worry,Isaiah Rashad,67,692050,"['hip hop', 'rap', 'underground hip hop']",69,2020-04-22,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Midnight,Ivey,26,5213,[],38,2020-05-07,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anything You Want,JAWNY,58,57902,"['bedroom pop', 'indie pop']",62,2020-02-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BALD! REMIX,JPEGMAFIA,53,218136,"['alternative hip hop', 'escape room', 'experimental hip hop', 'hip hop', 'industrial hip hop', 'rap', 'underground hip hop']",66,2020-05-05,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BALD!,JPEGMAFIA,63,218136,"['alternative hip hop', 'escape room', 'experimental hip hop', 'hip hop', 'industrial hip hop', 'rap', 'underground hip hop']",66,2020-02-26,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Good Old Days,JR JR,52,80686,"['chamber pop', 'indie pop', 'indie poptimism', 'indietronica', 'modern rock', 'shimmer pop', 'stomp and holler']",53,2020-03-05,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+You n Me,JUNE,36,661,[],34,2020-03-27,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outta Space (feat. Allday & Fossa Beats),JXN,54,7200,['indie r&b'],46,2020-02-28,2020-05-09,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Down,Jack Curley,57,4960,['uk pop'],55,2020-05-01,2020-05-09,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dream St.,Jackie Lynn,32,1378,[],33,2020-04-10,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+THE TRADE,Jak Bannon,43,182,[],29,2020-04-30,2020-05-09,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glue,Lil Halima,51,8091,['norwegian pop'],46,2020-04-03,2020-05-09,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
