@@ -1,22 +1,17 @@
-import os
-from os import environ
 from datetime import datetime, date
 
-import numpy as np
 import pandas as pd
 import spotipy
-import spotipy.util as util
+from spotipy.oauth2 import SpotifyClientCredentials
 import pandas_gbq
 
 from playlists import country_Ids, electronic_Ids, indie_Ids, pop_Ids, rap_Ids, rnb_Ids
 
 
 def daily_pull():
-    os.chdir(os.environ.get("LOCAL_DIRECTORY"))
 
     # defining scopes and auth token and spotipy object variable to make requests to api
-    token = util.prompt_for_user_token(os.environ.get("SPOTIPY_USERNAME"))
-    sp = spotipy.Spotify(auth=token)
+    spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
 
     genres_cutoffs = [
         ("electronic", "02-24-2020", electronic_Ids),
@@ -28,25 +23,12 @@ def daily_pull():
     ]
 
     for genre, cut_off_date, playlist_ids in genres_cutoffs:
-        # xlsx_filename = get_xlsx_filename(genre)
-        # csv_filename = get_csv_filename(genre)
-
-        pull_playlist(sp, playlist_ids)
-        # pivot(xlsx_filename, csv_filename, cut_off_date)
-
-
-# def get_xlsx_filename(genre):
-#     return genre + "Full" + datetime.now().strftime("%-m%d") + ".xlsx"
-
-
-# def get_csv_filename(genre):
-#     return genre + "PivotFull" + datetime.now().strftime("%-m%d") + ".csv"
-
+        pull_playlist(spotify, playlist_ids)
 
 # creating nested artist object function to use artist_Id from playlist tracks loop and
 # get followers, genres, and artist popularity metrics from each artist object.
-def artist_obj(sp, artist_Id):
-    artist_info = sp.artist(artist_Id)
+def artist_obj(spotify, artist_Id):
+    artist_info = spotify.artist(artist_Id)
     followers = artist_info["followers"]["total"]
     genres = artist_info["genres"]
     artist_pop = artist_info["popularity"]
@@ -58,15 +40,13 @@ def artist_obj(sp, artist_Id):
     }
 
 
-def pull_playlist(sp, playlist_ids):
+def pull_playlist(spotify, playlist_ids):
 
-    # write playlist charts to each sheet in master
-    # writer_electronic = pd.ExcelWriter(filename, engine="xlsxwriter")
-    # starting loop through each playlist iteration from our NMF array
+    # starting loop through each playlist iteration from our playlist ids
     for playlist_id in playlist_ids:
-        playlist_Obj = sp.playlist(playlist_id[1])
+        playlist_Obj = spotify.playlist(playlist_id[1])
         playlist_followers = playlist_Obj["followers"]["total"]
-        spot_Playlists = sp.playlist_tracks(playlist_id[1])
+        spot_Playlists = spotify.playlist_tracks(playlist_id[1])
         # setting iteration variable to count position in chart
         iter = 1
         position = 0
@@ -78,8 +58,7 @@ def pull_playlist(sp, playlist_ids):
             try:
                 artist = chart["track"]["album"]["artists"][0]["name"]
                 artist_Id = chart["track"]["album"]["artists"][0]["id"]
-
-                artist_stats = artist_obj(sp, artist_Id)
+                artist_stats = artist_obj(spotify, artist_Id)
                 followers = artist_stats.get("followers")
                 genres = artist_stats.get("genres")
                 artist_popularity = artist_stats.get("artist_pop")
@@ -124,7 +103,6 @@ def pull_playlist(sp, playlist_ids):
                 if chart is None:
                     continue
 
-        # new music friday playlists grabbing all of those values we want from each playlist
         df = pd.DataFrame(
             all_rows,
             columns=[
@@ -145,6 +123,8 @@ def pull_playlist(sp, playlist_ids):
             ],
         )
 
+        # ensuring data types are good for bigquery push
+
         df.dropna(subset=["Position"], inplace=True)
         df.dropna(subset=["Followers"], inplace=True)
 
@@ -161,102 +141,6 @@ def pull_playlist(sp, playlist_ids):
                           "spotify_ladder.daily_pulls",
                           project_id="wired-method-203014",
                           if_exists="append")
-
-    #     # writing each playlist to single xlsx spreadsheet with each sheet name being unique new music friday title
-    #     df.to_excel(
-    #         writer_electronic, sheet_name=playlist_id[0], index=False, header=True
-    #     )
-    #
-    # writer_electronic.save()
-    # writer_electronic.close()
-
-    # reading in the excel output from above and merging all of the rows and columns into one table
-
-
-# def pivot(xlsx_filename, csv_filename, cut_off_date):
-#
-#     electronic_df = pd.concat(
-#         pd.read_excel(xlsx_filename, sheet_name=None), ignore_index=True,
-#     )
-#
-#     # replacing blank release dates with null value
-#     electronic_df["Release_Date"].replace("", np.nan, inplace=True)
-#     # dropping null value rows for release date for bad metadata
-#     electronic_df.dropna(subset=["Release_Date"], inplace=True)
-#     # making release date column a datetime value
-#     electronic_df["Release_Date"] = pd.to_datetime(electronic_df["Release_Date"])
-#
-#     # pivot table to create new columns for TRUE or FALSE for track appearing in each playlist we are grabbing
-#     electronic_df["aux"] = 1
-#     electronic_pivot = (
-#         pd.pivot_table(
-#             electronic_df,
-#             index=[
-#                 "Artist",
-#                 "Track_Popularity",
-#                 "Track",
-#                 "Followers",
-#                 "Genres",
-#                 "Artist_Popularity",
-#                 "Release_Date",
-#                 "Date",
-#             ],
-#             columns=["Playlist_Name"],
-#             aggfunc="count",
-#             values="aux",
-#         )
-#         .fillna(0)
-#         .astype(int)
-#     )
-#
-#     # adding underscore to beg of columns for columns that start with number
-#     # replacing white spaces with underscores
-#     electronic_pivot.columns = electronic_pivot.columns.str.replace(" ", "_")
-#     electronic_pivot.columns = electronic_pivot.columns.str.replace("&", "_")
-#
-#
-#     # creating new column for total playlists, for each track
-#     electronic_pivot["Total_Playlists"] = electronic_pivot.sum(axis=1)
-#
-#     # putting total playlists column at front
-#     cols_full = [electronic_pivot.columns[-1]] + [
-#         cols_full
-#         for cols_full in electronic_pivot
-#         if cols_full != electronic_pivot.columns[-1]
-#     ]
-#     electronic_pivot = electronic_pivot[cols_full]
-#
-#     electronic_pivot.reset_index(
-#         level=[
-#             "Artist",
-#             "Date",
-#             "Track_Popularity",
-#             "Followers",
-#             "Genres",
-#             "Artist_Popularity",
-#             "Release_Date",
-#         ],
-#         inplace=True,
-#     )
-#
-#     ## making our range any row greater than the date above to query from total tracks in playlists
-#     range = electronic_pivot["Release_Date"] > cut_off_date
-#     # # putting the date range / cutoff together with the dataframe
-#     electronic_pivot = electronic_pivot.loc[range]
-#
-#     # sorting table by total playlists track found in, from greatest to least
-#     electronic_sorted_pivot = electronic_pivot.sort_values(
-#         by="Total_Playlists", ascending=False
-#     )
-#
-#     electronic_sorted_pivot = electronic_sorted_pivot.add_prefix("_")
-#
-#     ### CREATE NEW CSV HERE ALL PLAYLIST TRACKS WITHIN DATE CUTOFF ###
-#
-#     with open(csv_filename, "a") as f:
-#         electronic_sorted_pivot.to_csv(f, header=True, index=True)
-
-
 
 if __name__ == "__main__":
     daily_pull()
