@@ -28,15 +28,15 @@ def daily_pull():
     ]
 
     for genre, cut_off_date, playlist_ids in genres_cutoffs:
-        xlsx_filename = get_xlsx_filename(genre)
+        # xlsx_filename = get_xlsx_filename(genre)
         # csv_filename = get_csv_filename(genre)
 
-        pull_playlist(sp, xlsx_filename, playlist_ids)
+        pull_playlist(sp, playlist_ids)
         # pivot(xlsx_filename, csv_filename, cut_off_date)
 
 
-def get_xlsx_filename(genre):
-    return genre + "Full" + datetime.now().strftime("%-m%d") + ".xlsx"
+# def get_xlsx_filename(genre):
+#     return genre + "Full" + datetime.now().strftime("%-m%d") + ".xlsx"
 
 
 # def get_csv_filename(genre):
@@ -58,10 +58,10 @@ def artist_obj(sp, artist_Id):
     }
 
 
-def pull_playlist(sp, filename, playlist_ids):
+def pull_playlist(sp, playlist_ids):
 
     # write playlist charts to each sheet in master
-    writer_electronic = pd.ExcelWriter(filename, engine="xlsxwriter")
+    # writer_electronic = pd.ExcelWriter(filename, engine="xlsxwriter")
     # starting loop through each playlist iteration from our NMF array
     for playlist_id in playlist_ids:
         playlist_Obj = sp.playlist(playlist_id[1])
@@ -162,13 +162,13 @@ def pull_playlist(sp, filename, playlist_ids):
                           project_id="wired-method-203014",
                           if_exists="append")
 
-        # writing each playlist to single xlsx spreadsheet with each sheet name being unique new music friday title
-        df.to_excel(
-            writer_electronic, sheet_name=playlist_id[0], index=False, header=True
-        )
-
-    writer_electronic.save()
-    writer_electronic.close()
+    #     # writing each playlist to single xlsx spreadsheet with each sheet name being unique new music friday title
+    #     df.to_excel(
+    #         writer_electronic, sheet_name=playlist_id[0], index=False, header=True
+    #     )
+    #
+    # writer_electronic.save()
+    # writer_electronic.close()
 
     # reading in the excel output from above and merging all of the rows and columns into one table
 
